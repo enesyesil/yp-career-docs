@@ -7,14 +7,14 @@ Every mentee receives one-on-one guidance, supported by clear systems that make 
 
 ##  Our Operational Model
 
-At the heart of our program lies the **Core Mentorship Group (CMG)** — a stable one-on-one relationship between a caseworker and a mentee.  
+At the heart of our program lies the **Mentorship Group** — a stable one-on-one relationship between a caseworker and a mentee.  
 This group acts as the central unit of mentorship and growth, combining structure, flexibility, and human connection.
 
-Each CMG includes:
+Each Mentorship Group includes:
 - **Caseworker** – guides, monitors, and personalizes the journey.  
 - **Mentee** – actively participates, reflects, and tracks progress.  
 - **Access to Professionals** – external mentors available through the caseworker.  
-- **Platform Tools** – digital checklists, logs, and resources for consistency.
+- **Platform & Tools** – digital checklists, logs, and resources for consistency.
 
 > The Core Mentorship Group keeps mentorship human while enabling structure, accountability, and measurable outcomes.
 
