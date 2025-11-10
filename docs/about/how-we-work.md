@@ -16,7 +16,6 @@ Each Mentorship Group includes:
 - **Access to Professionals** – external mentors available through the caseworker.  
 - **Platform & Tools** – digital checklists, logs, and resources for consistency.
 
-> The Core Mentorship Group keeps mentorship human while enabling structure, accountability, and measurable outcomes.
 
 ###  Our Core: Mentorship Groups
 
