@@ -1,7 +1,7 @@
 #  Organizational Structure
 
 Career Academy’s organizational model is designed to support mentorship at scale — without losing the one-on-one connection that defines our work.  
-It connects every level of engagement — from mentees and caseworkers to fellows, professionals, and program leadership — into one continuous ecosystem.
+It connects every level of engagement, from mentees and caseworkers to fellows, professionals, and program leadership — into one continuous ecosystem.
 
 ---
 
