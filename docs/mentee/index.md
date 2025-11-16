@@ -7,7 +7,7 @@ Here, you’ll find everything you need to understand how the Academy works, how
 
 ---
 
-## 🎯 What YPCA Offers
+##  What YPCA Offers
 
 - A structured **mentorship system** with trained caseworkers  
 - Tools and checklists to help you plan and stay accountable  
@@ -18,7 +18,7 @@ Here, you’ll find everything you need to understand how the Academy works, how
 
 ---
 
-## 📘 Your First Steps
+##  Your First Steps
 
 | Step | Resource | Description |
 |------|-----------|-------------|
@@ -29,7 +29,7 @@ Here, you’ll find everything you need to understand how the Academy works, how
 
 ---
 
-## 🧩 Your Support Circle
+##  Your Support Circle
 
 | Role | What They Do |
 |------|---------------|
@@ -39,7 +39,7 @@ Here, you’ll find everything you need to understand how the Academy works, how
 
 ---
 
-## 🌱 Your Growth Journey
+##  Your Growth Journey
 
 | Level | Focus | Core Outcomes |
 |--------|--------|----------------|

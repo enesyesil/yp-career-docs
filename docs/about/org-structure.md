@@ -1,11 +1,11 @@
-# 🧱 Organizational Structure
+#  Organizational Structure
 
 Career Academy’s organizational model is designed to support mentorship at scale — without losing the one-on-one connection that defines our work.  
 It connects every level of engagement — from mentees and caseworkers to fellows, professionals, and program leadership — into one continuous ecosystem.
 
 ---
 
-## 🧭 Overview
+##  Overview
 
 The organization is structured around how mentees grow.  
 Every participant begins with **Scouting** and **Diagnosis**, then moves through one of four **Caseworker Pathways**.  
@@ -13,7 +13,7 @@ Each pathway focuses on a different stage of readiness and development, leading 
 
 ---
 
-## 🩺 Scouting and Diagnosis
+##  Scouting and Diagnosis
 
 The journey begins with outreach and onboarding:
 - **Scouting** – identifying potential mentees through community, partner, or referral networks.  
@@ -23,7 +23,7 @@ The journey begins with outreach and onboarding:
 
 ---
 
-## 🧩 Caseworker Pathways
+##  Caseworker Pathways
 
 Each mentee is assigned to a **Caseworker Pathway** that matches their developmental stage.  
 These pathways define what kind of mentorship, checklists, and goals will be used.
@@ -37,7 +37,7 @@ These pathways define what kind of mentorship, checklists, and goals will be use
 
 Each pathway is guided by caseworkers specialized in that area, supported by program coordinators and peer fellows.
 
-### 🪜 Fellowship
+###  Fellowship
 
 After completing their pathway, mentees enter the **Fellowship** — a stage focused on leadership, contribution, and community.  
 
@@ -50,7 +50,7 @@ Fellows:
 
 ---
 
-## 🧠 Leadership and Coordination
+##  Leadership and Coordination
 
 Behind the scenes, each operational layer has clear responsibilities:
 
@@ -66,7 +66,7 @@ Behind the scenes, each operational layer has clear responsibilities:
 
 ---
 
-## 🌱 Summary
+##  Summary
 
 - Every mentorship begins with **Scouting and Diagnosis**.  
 - Mentees are placed in **Foundation**, **Strategy**, **Candidacy**, or **Experience** pathways.  

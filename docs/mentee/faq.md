@@ -5,7 +5,7 @@ Here you’ll find quick answers to common questions about meetings, progress tr
 
 ---
 
-## 🧭 Getting Started
+##  Getting Started
 
 ### 1. What is YPCA?
 The **YPCA Career Academy** is a structured mentorship and growth program that helps students and young adults set clear goals, stay accountable, and prepare for real-world opportunities — guided by **caseworkers** and supported by **professionals**.
@@ -21,7 +21,7 @@ Once assigned, you’ll complete a short diagnosis and onboarding checklist befo
 
 ---
 
-## 👥 Meetings & Communication
+##  Meetings & Communication
 
 ### 4. How often do I meet my caseworker?
 Usually **every 2–3 weeks**, depending on your goals and level of activity.  
@@ -38,7 +38,7 @@ Typically **30–45 minutes**. Some may be shorter (15–20 mins) if focused on 
 
 ---
 
-## 🪴 Progress & Checklists
+##  Progress & Checklists
 
 ### 7. How do the levels work?
 Each mentee follows the **YPCA Growth Model**, progressing through four levels:
@@ -59,7 +59,7 @@ Yes — YPCA encourages exploration. You can switch or combine roadmaps (for exa
 
 ---
 
-## 💬 Communication & Support
+##  Communication & Support
 
 ### 10. What if I can’t attend a meeting?
 Let your caseworker know as early as possible and reschedule.  
@@ -76,7 +76,7 @@ Your caseworker will help reset your plan with smaller, achievable steps.
 
 ---
 
-## 🚀 Opportunities & Events
+##  Opportunities & Events
 
 ### 13. Will YPCA connect me with real organizations?
 Yes — as partnerships grow, mentees will have access to:
@@ -89,7 +89,7 @@ Absolutely. You can help improve documentation, join event planning, or become a
 
 ---
 
-## 📚 Future Updates
+##  Future Updates
 
 This FAQ and all YPCA resources evolve over time.  
 As more roadmaps and partnerships go live, this section will expand with examples, forms, and real stories from past mentees.

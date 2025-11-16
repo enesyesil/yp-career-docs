@@ -5,13 +5,13 @@ Each mentee is paired with a caseworker who helps them build direction, consiste
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 The mentee’s role is to take *active ownership* of their progress.  
 The caseworker and professors can support, but the mentee drives the action.
 
 ---
 
-## 🧱 Responsibilities
+##  Responsibilities
 
 | Area | Expectation |
 |------|--------------|
@@ -23,7 +23,7 @@ The caseworker and professors can support, but the mentee drives the action.
 
 ---
 
-## 🧭 How to Work with Your Caseworker
+## How to Work with Your Caseworker
 1. **Prepare** before each session — list updates, blockers, and next goals.  
 2. **Focus** on what’s actionable — 2–3 small steps are better than vague ambitions.  
 3. **Document** everything in shared notes or trackers.  
@@ -31,7 +31,7 @@ The caseworker and professors can support, but the mentee drives the action.
 
 ---
 
-## 🌱 Growth Path
+##  Growth Path
 
 | Level | Description | Example Focus |
 |--------|--------------|----------------|

@@ -1,3 +1,4 @@
+
 - **Start**
   - [Welcome](/README.md)
 
@@ -28,11 +29,21 @@
 - **Programs**
   - [Career Academy](/programs/career-academy.md)
   - [Events & Camps](/programs/events.md)
-  - [Outreach](/programs/outreach-film.md)
+  - [Hidden Gems](/programs/hidden-gems.md)
+  - [Synergy Meetups](/programs/synergy-meetup.md)
 
 - **Resources**
   - [Overview](/resources/index.md)
-  - [Templates](/resources/templates.md)
+  - **Templates**
+    - [Index](/resources/templates/index.md)
+    - [Jake’s LaTeX Resume](/resources/templates/jake-latex-resume.tex)
+    - [Quick Resume Guide](/resources/templates/simple-resume.md)
+    - [Cover Letter](/resources/templates/cover-letter.md)
+    - [Semester Planner](/resources/templates/semester-planner.md)
+    - [Weekly Study Plan](/resources/templates/weekly-study-plan.md)
+    - [Deadline Tracker](/resources/templates/deadline-tracker.md)
+    - [LinkedIn Checklist](/resources/templates/linkedin-checklist.md)
+    - [Job Tracker](/resources/templates/job-tracker.md)
   - [Useful Links](/resources/links.md)
 
 - **Surveys**

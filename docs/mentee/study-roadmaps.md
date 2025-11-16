@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 What to Expect Soon
+##  What to Expect Soon
 
 The **Study Roadmaps** will provide guided pathways that help mentees build skills, discipline, and readiness for real careers — whether in **academia, industry, or public service**.
 
@@ -17,7 +17,7 @@ Each roadmap will include:
 
 ---
 
-## 🧩 Planned Roadmap Categories
+##  Planned Roadmap Categories
 
 | Field | Description |
 |--------|-------------|
@@ -42,7 +42,7 @@ Each of these paths will include structured study and field-readiness modules in
 
 ---
 
-## 🤝 Collaboration Note
+##  Collaboration Note
 
 YPCA planning to partner with:
 - **Colleges and academies** offering specialized diplomas or training  

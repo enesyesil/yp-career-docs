@@ -5,7 +5,7 @@ They are not regular mentors, but trusted contributors who step in when mentees 
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 To provide occasional, high-impact input that helps mentees make informed career choices.
 
@@ -16,7 +16,7 @@ To provide occasional, high-impact input that helps mentees make informed career
 
 ---
 
-## 🧩 Engagement Style
+##  Engagement Style
 
 | Type | Frequency | Description |
 |------|------------|-------------|
@@ -26,14 +26,14 @@ To provide occasional, high-impact input that helps mentees make informed career
 
 ---
 
-## ⚙️ Coordination with Caseworkers
+##  Coordination with Caseworkers
 - Caseworkers identify when professional input adds value and facilitate the contact.  
 - Communication remains concise, goal-driven, and time-bounded.  
 - Caseworkers handle follow-up and documentation — professionals **don’t manage mentee progress.**
 
 ---
 
-## 💡 Guidelines
+##  Guidelines
 - Keep interactions short and purposeful (15–30 min typical).  
 - Offer perspective, not evaluation — focus on “how the industry works.”  
 - Share general advice, not confidential company information.  
@@ -41,11 +41,11 @@ To provide occasional, high-impact input that helps mentees make informed career
 
 ---
 
-## 📊 Expected Impact
+##  Expected Impact
 - Mentees gain **realistic views** of career paths and work culture.  
 - Caseworkers receive **verified advice** to shape mentee action plans.  
 - The Academy builds a growing network of professionals who empower the next generation.
 
 ---
 
-> 🧠 *Professionals bring clarity, credibility, and connections — only when it’s most needed.*
+> 💡 *Professionals bring clarity, credibility, and connections — only when it’s most needed.*

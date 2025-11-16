@@ -101,22 +101,6 @@ classDef stageClass fill:#dbeafe,stroke:#3b82f6,stroke-width:2px,color:#1e3a8a,p
 
 ---
 
-##  Checklists: Structure Made Simple
-
-To reduce complexity and make caseworkers’ tasks easier, we use **predefined checklists** for every stage of the mentorship process.  
-Checklists ensure that all important steps are covered while allowing caseworkers to personalize items based on the mentee’s needs.
-
-| Checklist Type | Used For | Description |
-|----------------|-----------|--------------|
-| **Intake** | Onboarding | Captures goals, background, and expectations. |
-| **Session** | Weekly meetings | Tracks progress, discussions, and next steps. |
-| **Reflection** | Midpoint reviews | Encourages mentees to assess learning and motivation. |
-| **Graduation** | Completion | Summarizes outcomes and future plans. |
-| **Follow-Up** | Alumni stage | Keeps the connection alive after the program. |
-
-> Checklists bring order without rigidity — they make progress repeatable, visible, and scalable.
-
----
 
 ##  Journey Pathways
 
@@ -132,6 +116,22 @@ These pathways define the style and depth of mentorship they’ll receive.
 
 > Each pathway offers tailored support — meeting mentees where they are, not where we expect them to be.
 
+---
+
+## Checklists: Structure Aligned With Pathways
+
+Every mentee follows one or more **pathways**, and each pathway has its own dedicated checklist.  
+This ensures that caseworkers always know *what stage the mentee is in* and *what steps make the most impact next*.
+
+| Checklist / Pathway | Used For | Description |
+|----------------------|-----------|-------------|
+| **Foundation Pathway** | Routines, stability, and academic consistency | Covers sleep, study habits, scheduling, stress management, and basic life structure. Helps mentees build the foundations required for progress. |
+| **Strategy Pathway** | Planning and direction | Guides mentees through goal-setting, career mapping, exploring options, identifying hidden opportunities, and building long-term direction. |
+| **Experience Pathway** | Building real evidence | Tracks volunteering, part-time work, club involvement, certifications, skills-building, and project experience. Helps mentees grow into "young professionals." |
+| **Candidacy Pathway** | Job and internship readiness | Covers resume, LinkedIn, cover letters, references, interview practice, job applications, and portfolio preparation. Supports students entering the job market. |
+
+> Each checklist removes confusion and makes progress repeatable.  
+> Pathways stay flexible — but the structure ensures nothing important is missed.
 ---
 
 ###  Fellowship

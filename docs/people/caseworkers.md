@@ -17,7 +17,7 @@ To help mentees **translate goals into action** by providing:
 
 ---
 
-## 🧭 Role Overview
+##  Role Overview
 
 | Focus Area | Description |
 |-------------|--------------|
@@ -28,7 +28,7 @@ To help mentees **translate goals into action** by providing:
 
 ---
 
-## ⚙️ Core Workflow
+##  Core Workflow
 
 1. **Onboarding** – Review mentee’s background, complete the diagnosis form, and set 2–3 initial goals.  
 2. **Regular Meetings** – Conduct bi-weekly or monthly check-ins (30–45 min).  
@@ -38,7 +38,7 @@ To help mentees **translate goals into action** by providing:
 
 ---
 
-## 🧱 Responsibilities
+##  Responsibilities
 
 | Category | Expectations |
 |-----------|---------------|
@@ -50,7 +50,7 @@ To help mentees **translate goals into action** by providing:
 
 ---
 
-## 🪜 Mentee Journey Levels
+##  Mentee Journey Levels
 
 | Level | Focus | Example Activities |
 |--------|--------|--------------------|
@@ -61,7 +61,7 @@ To help mentees **translate goals into action** by providing:
 
 ---
 
-## 🧩 Collaboration Map
+##  Collaboration Map
 
 | Partner | Interaction |
 |----------|--------------|
@@ -71,7 +71,7 @@ To help mentees **translate goals into action** by providing:
 
 ---
 
-## 📊 Success Indicators
+##  Success Indicators
 - Mentees meet goals and progress through checklist levels  
 - Notes and plans are consistently documented  
 - Engagement rate remains high (attendance ≥ 80%)  

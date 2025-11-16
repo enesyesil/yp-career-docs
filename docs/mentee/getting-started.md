@@ -6,7 +6,7 @@ This page will walk you through your **first week** as a mentee and show you how
 
 ---
 
-## 🧭 Step 1 — Understand the YPCA Journey
+##  Step 1 — Understand the YPCA Journey
 
 The Academy helps you move through **four structured levels** of growth:
 
@@ -21,7 +21,7 @@ Your **caseworker** will guide you through these stages and track your progress 
 
 ---
 
-## 👥 Step 2 — Meet Your Caseworker
+##  Step 2 — Meet Your Caseworker
 
 Your assigned **caseworker** is your main point of contact and accountability partner.  
 They will:
@@ -34,7 +34,7 @@ They will:
 
 ---
 
-## 📋 Step 3 — Complete Your Onboarding Checklist
+##  Step 3 — Complete Your Onboarding Checklist
 
 During your first week, you’ll complete a short onboarding checklist:
 - Share your background and interests  
@@ -46,7 +46,7 @@ After completing it, you’ll officially begin at the **Foundation Level**.
 
 ---
 
-## 🧠 Step 4 — Learn to Document Progress
+##  Step 4 — Learn to Document Progress
 
 Every YPCA mentee maintains:
 - **Meeting notes** — short summaries after every session  
@@ -57,7 +57,7 @@ Every YPCA mentee maintains:
 
 ---
 
-## 🔁 Step 5 — Stay Engaged
+##  Step 5 — Stay Engaged
 
 - Attend all scheduled meetings (biweekly or monthly)  
 - Communicate any blockers early  
@@ -68,7 +68,7 @@ Consistency matters more than speed.
 
 ---
 
-## 📚 Step 6 — Explore Your Study Roadmap
+##  Step 6 — Explore Your Study Roadmap
 
 When you’re ready:
 - Visit the [Study Roadmaps](study-roadmaps.md) page  
@@ -77,7 +77,7 @@ When you’re ready:
 
 ---
 
-## 🌱 What Success Looks Like at YPCA
+##  What Success Looks Like at YPCA
 
 - You know what you’re working toward and why  
 - You complete your goals with clarity and reflection  
