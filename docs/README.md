@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/brand/assets/ypca-logo.png" width="200" alt="YPCA Logo">
+  <img src="brand/assets/ypca-logo.png" width="200" alt="YPCA Logo">
 </p>
 
 <h1 align="center">YPCA Career Academy - Public Handbook</h1>
