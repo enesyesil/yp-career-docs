@@ -51,44 +51,74 @@
     </select>
   </div>
   <script>
-    // Language mapping
+    // Language mapping - detect if we're in local dev or production
+    const isLocalDev = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    
     const languageMap = {
-      'en': '/docs/',
-      'tr': '/docs-tr/'
+      'en': isLocalDev ? 'http://localhost:3000/' : '/docs/',
+      'tr': isLocalDev ? 'http://localhost:3001/' : '/docs-tr/'
     };
 
-    function switchLanguage(lang) {
-      const currentPath = window.location.pathname;
-      const hash = window.location.hash;
+    // Make function globally accessible
+    window.switchLanguage = function(lang) {
+      // Check if already on the selected language
+      const currentPort = window.location.port;
+      const isCurrentlyEnglish = isLocalDev ? (currentPort === '3000' || currentPort === '') : !window.location.pathname.includes('/docs-tr/');
+      const isCurrentlyTurkish = isLocalDev ? (currentPort === '3001') : window.location.pathname.includes('/docs-tr/');
       
-      // Extract current file path
-      let currentFile = '';
-      if (currentPath.includes('/docs/')) {
-        currentFile = currentPath.replace(/^.*\/docs\//, '');
-      } else if (currentPath.includes('/docs-tr/')) {
-        currentFile = currentPath.replace(/^.*\/docs-tr\//, '');
+      if ((lang === 'en' && isCurrentlyEnglish) || (lang === 'tr' && isCurrentlyTurkish)) {
+        return; // Already on the selected language
       }
       
-      // If no file specified, default to README.md
-      if (!currentFile || currentFile === '' || currentFile.endsWith('/')) {
+      // Get current hash (Docsify uses hash-based routing)
+      const hash = window.location.hash || '#/';
+      let currentFile = '';
+      
+      // Extract file path from hash (e.g., #/about/mission.md -> about/mission.md)
+      if (hash.startsWith('#/')) {
+        currentFile = hash.substring(2); // Remove '#/'
+      } else if (hash.startsWith('#')) {
+        currentFile = hash.substring(1); // Remove '#'
+      }
+      
+      // Clean up the file path
+      if (currentFile.startsWith('/')) {
+        currentFile = currentFile.substring(1);
+      }
+      
+      // If no file specified or empty, default to README.md
+      if (!currentFile || currentFile === '' || currentFile === '/') {
         currentFile = 'README.md';
       }
       
       // Get new base path
       const newBasePath = languageMap[lang];
-      const newPath = newBasePath + currentFile + hash;
+      // Construct new URL with proper hash format for Docsify
+      const newPath = newBasePath + '#/' + currentFile;
       
+      console.log('Switching language:', lang, 'Current file:', currentFile, 'New path:', newPath);
       window.location.href = newPath;
-    }
+    };
 
     // Detect current language and update selector
     window.addEventListener('DOMContentLoaded', function() {
-      const currentPath = window.location.pathname;
       const selector = document.getElementById('language-selector');
-      if (currentPath.includes('/docs-tr/')) {
-        selector.value = 'tr';
+      // In local dev, check the port number
+      if (isLocalDev) {
+        const port = window.location.port;
+        if (port === '3001') {
+          selector.value = 'tr';
+        } else {
+          selector.value = 'en';
+        }
       } else {
-        selector.value = 'en';
+        // In production, check the pathname
+        const currentPath = window.location.pathname;
+        if (currentPath.includes('/docs-tr/')) {
+          selector.value = 'tr';
+        } else {
+          selector.value = 'en';
+        }
       }
     });
 

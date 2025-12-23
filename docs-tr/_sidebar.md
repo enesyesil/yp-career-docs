@@ -1,54 +1,53 @@
 
-- **Start**
-  - [Welcome](/README.md)
+- **Başlangıç**
+  - [Hoş Geldiniz](/README.md)
 
-- **About**
-  - [Mission](/about/mission.md)
-  - [How We Work](/about/how-we-work.md)
-  - [Org Structure](/about/org-structure.md)
+- **Hakkında**
+  - [Misyon](/about/mission.md)
+  - [Nasıl Çalışıyoruz](/about/how-we-work.md)
+  - [Organizasyon Yapısı](/about/org-structure.md)
 
-- **People**
-  - [Caseworkers](/people/caseworkers.md)
-  - [Mentees](/people/mentees.md)
-  - [Professionals](/people/professionals.md)
+- **İnsanlar**
+  - [Vaka Çalışanları](/people/caseworkers.md)
+  - [Mentiler](/people/mentees.md)
+  - [Profesyoneller](/people/professionals.md)
 
-- **Diagnosis**
-  - [Overview](/diagnosis/overview.md)
-  - [Forms](/diagnosis/forms.md)
+- **Vaka Çalışanı**
+  - [Genel Bakış](/caseworker/index.md)
+  - [Tanı Genel Bakış](/caseworker/diagnosis-overview.md)
+  - [Başlangıç Kontrol Listesi](/caseworker/onboarding-checklist.md)
+  - [Toplantı Şablonu](/caseworker/meeting-template.md)
 
-- **Checklists**
-  - [Overview](/checklists/overview.md)
-  - [Samples](/checklists/samples.md)
+- **Menti Merkezi**
+  - [Genel Bakış](/mentee/index.md)
+  - [Başlangıç Rehberi](/mentee/getting-started.md)
+  - [Çalışma Yol Haritaları](/mentee/study-roadmaps.md)
+  - [Sık Sorulan Sorular](/mentee/faq.md)
 
-- **Mentee Hub**
-  - [Overview](/mentee/index.md)
-  - [Getting Started](/mentee/getting-started.md)
-  - [Study Roadmaps](/mentee/study-roadmaps.md)
-  - [FAQ](/mentee/faq.md)
-
-- **Programs**
+- **Programlar**
   - [Career Academy](/programs/career-academy.md)
-  - [Events & Camps](/programs/events.md)
-  - [Hidden Gems](/programs/hidden-gems.md)
-  - [Synergy Meetups](/programs/synergy-meetup.md)
+  - [Etkinlikler ve Kamplar](/programs/events.md)
+  - [Gizli Mücevherler](/programs/hidden-gems.md)
+  - [Sinergi Buluşmaları](/programs/synergy-meetup.md)
 
-- **Resources**
-  - [Overview](/resources/index.md)
-  - **Templates**
-    - [Index](/resources/templates/index.md)
-    - [Jake’s LaTeX Resume](/resources/templates/jake-latex-resume.tex)
-    - [Quick Resume Guide](/resources/templates/simple-resume.md)
-    - [Cover Letter](/resources/templates/cover-letter.md)
-    - [Semester Planner](/resources/templates/semester-planner.md)
-    - [Weekly Study Plan](/resources/templates/weekly-study-plan.md)
-    - [Deadline Tracker](/resources/templates/deadline-tracker.md)
-    - [LinkedIn Checklist](/resources/templates/linkedin-checklist.md)
-    - [Job Tracker](/resources/templates/job-tracker.md)
-  - [Useful Links](/resources/links.md)
+- **Kaynaklar**
+  - [Genel Bakış](/resources/index.md)
+  - [Şablonlar](/resources/templates.md)
+  - **Şablonlar**
+    - [İndeks](/resources/templates/index.md)
+    - [Jake'in LaTeX Özgeçmişi](/resources/templates/jake-latex-resume.tex)
+    - [Hızlı Özgeçmiş Rehberi](/resources/templates/simple-resume.md)
+    - [Ön Yazı](/resources/templates/cover-letter.md)
+    - [Dönem Planlayıcı](/resources/templates/semester-planner.md)
+    - [Haftalık Çalışma Planı](/resources/templates/weekly-study-plan.md)
+    - [Son Tarih Takipçisi](/resources/templates/deadline-tracker.md)
+    - [LinkedIn Kontrol Listesi](/resources/templates/linkedin-checklist.md)
+    - [İş Takipçisi](/resources/templates/job-tracker.md)
+  - [Faydalı Bağlantılar](/resources/links.md)
 
-- **Surveys**
-  - [About the Surveys](/surveys/overview.md)
-  - [Findings (2025)](/surveys/findings-2025.md)
+- **Anketler**
+  - [Anketler Hakkında](/surveys/overview.md)
+  - [Bulgular (2025)](/surveys/findings-2025.md)
 
-- **Brand**
-  - [Logo & Usage](/brand/logo.md)
+- **Marka**
+  - [Logo ve Kullanım](/brand/logo.md)
