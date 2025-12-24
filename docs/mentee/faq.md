@@ -50,12 +50,12 @@ Each mentee follows the **YPCA Growth Model**, progressing through four levels:
 | **Strategy** | Execution | Apply for opportunities or run mock interviews |
 | **Experience** | Reflection | Work, volunteer, and track results |
 
-### 8. How do I know when I move to the next level?
+### 8. How do I know when I move to the next stage?
 Your caseworker will review your progress and mark when you’ve completed the checklist for your current level.  
 This is usually done during a reflection meeting.
 
-### 9. Can I move between different roadmap fields?
-Yes — YPCA encourages exploration. You can switch or combine roadmaps (for example, *Data Science + Social Impact*) as long as your caseworker agrees the plan stays realistic.
+### 9. Can I move between different roadmap stages?
+Yes, YPCA encourages exploration. You can switch or combine roadmaps (for example, *Data Science + Social Impact*) as long as your caseworker agrees the plan stays realistic.
 
 ---
 
@@ -79,9 +79,8 @@ Your caseworker will help reset your plan with smaller, achievable steps.
 ##  Opportunities & Events
 
 ### 13. Will YPCA connect me with real organizations?
-Yes — as partnerships grow, mentees will have access to:
-- **Workshops and bootcamps**
-- **Public service exposure** (e.g., Police Foundations, Firefighter training, etc.)
+Yes, as partnerships grow, mentees will have access to:
+- **Workshops and seminars**
 - **Collaborative projects** with universities or companies
 
 ### 14. Can I volunteer or contribute?
@@ -96,4 +95,4 @@ As more roadmaps and partnerships go live, this section will expand with example
 
 ---
 
-> 💡 *If you’re ever unsure — ask your caseworker. They’re here to help you turn uncertainty into structure.*
+> 💡 *If you’re ever unsure, ask your caseworker. They’re here to help you turn uncertainty into structure.*

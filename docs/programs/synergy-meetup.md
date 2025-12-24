@@ -39,17 +39,17 @@ There is **no requirement** to be in Career Academy — Synergy Meetups are open
 
 These groups evolve naturally based on interest and demand. Examples include:
 
-1. **Tech & Engineering Synergy**
+1. **Tech & Engineering Groups**
 
-2. **Healthcare & Community Services Synergy**
+2. **Healthcare & Community Services Groups**
 
-3. **Education & Teaching Synergy**
+3. **Education & Teaching Groups**
 
-4. **Public Service & Law Enforcement Synergy**
+4. **Public Service & Law Enforcement Careers Groups**
 
-5. **Business & Entrepreneurship Synergy**
+5. **Business & Entrepreneurship Groups**
 
-6. **Law & Legal Careers Synergy**
+6. **Law & Legal Careers Groups**
 
 New synergy groups can be created anytime based on interest.
 
@@ -86,7 +86,7 @@ A typical session includes:
    - “What’s one thing you learned today?”  
    - “What’s your next step?”  
 
-The session has structure — but stays light, conversational, and flexible.
+The session has structure but stays light, conversational, and flexible.
 
 ---
 
@@ -141,6 +141,6 @@ To launch one:
 
 ---
 
-Synergy Meetups help students realize:  
+Synergy Meetups help young professionals realize:  
 **You don’t have to figure everything out alone.**  
 Sometimes, the people walking beside you are the best mentors you can get.

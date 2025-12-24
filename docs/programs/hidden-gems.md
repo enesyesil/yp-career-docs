@@ -3,7 +3,7 @@
 Hidden Gems is our signature career-exploration series.  
 Its goal is simple: **help students discover high-demand, stable, and meaningful careers that are often overlooked — and connect them directly with professionals working in those fields.**
 
-These careers are “hidden” not because they are rare, but because most students **never hear about them**, don’t know where to start, or assume they are “too hard” or “not for them”.
+These careers are “hidden” not because they are rare, but because most people **never hear about them**, don’t know where to start, or assume they are “too hard” or “not for them”.
 
 Hidden Gems fixes that by bringing real frontline experts, instructors, and professionals into the room to share their journey, requirements, and advice.
 
@@ -13,7 +13,7 @@ Hidden Gems fixes that by bringing real frontline experts, instructors, and prof
 
 Hidden Gems exists to:
 
-- Expose students to **high-demand careers** they wouldn’t normally consider  
+- Expose mentees to **high-demand careers** they wouldn’t normally consider  
 - Break stereotypes about “traditional” career paths  
 - Provide clarity on certifications, training pathways, and provincial differences  
 - Give students **direct access** to professionals and HR perspectives  
@@ -86,11 +86,6 @@ A session featuring real frontline professionals who explained:
 - **Time:** 7:30 PM – 10:30 PM  
 - **Location:** Milliken Mills Community Centre  
 
-Images from the event (for documentation or archives):
-
-- Public Service Event Poster  
-  ![](../images/ypca-career-academy-hidden-gems-public-service.webp)
-
 ---
 
 ### **Hidden Gems #2 — Teaching Career in Canada**
@@ -111,10 +106,6 @@ Instructor / Math Teacher, University of Alberta
 - **Time:** 8 PM – 9 PM  
 - **Location:** Online (Zoom)—details emailed to attendees  
 
-Images from the event:
-
-- Teaching Career Event Poster  
-  ![](../images/teaching-career.webp)
 
 ---
 
@@ -152,19 +143,17 @@ Each session is built with one goal:
 ## 6. Future Hidden Gems Topics
 
 We plan to expand to industries such as:
-
-- Skilled trades  
+  
 - Energy & utilities  
 - Healthcare specialties  
 - Non-profit leadership  
-- Government agencies  
-- Immigration & settlement careers  
+- Government agencies   
 - Community services  
-- Technical roles outside tech (lab tech, safety inspector, etc.)  
+- Technical roles outside tech 
 
 Each upcoming topic is chosen based on **market demand, stability, accessibility, and student interest**.
 
 ---
 
 Hidden Gems is one of our most impactful programs.  
-It opens doors, sparks new ambitions, and helps students see the future more clearly and confidently.
+It opens doors, sparks new ambitions, and helps mentees see the future more clearly and confidently.

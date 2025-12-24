@@ -5,7 +5,7 @@ They guide mentees through a structured journey — helping them define goals, b
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 To help mentees **translate goals into action** by providing:
 - Personalized planning and accountability  
@@ -74,7 +74,7 @@ To help mentees **translate goals into action** by providing:
 ##  Success Indicators
 - Mentees meet goals and progress through checklist levels  
 - Notes and plans are consistently documented  
-- Engagement rate remains high (attendance ≥ 80%)  
+- Engagement rate remains high  
 - Mentees report increased confidence and direction  
 
 ---
