@@ -2,49 +2,67 @@
   <img src="brand/assets/ypca-logo.png" width="200" alt="YPCA Logo">
 </p>
 
-<h1 align="center">YPCA Career Academy - Public Handbook</h1>
+<h1 align="center">YPCA Career Academy – El Kitapçığı</h1>
 
 <p align="center">
-  Empowering young professionals and students across Canada.
+  Kanada genelinde genç profesyoneller için yapılandırılmış kariyer desteği.
 </p>
 
 ---
 
-##  Purpose
-Our goal is to make mentorship and career growth **accessible, structured, and transparent**.  
-This handbook provides:
-- Clear expectations for mentees and caseworkers  
-- Step-by-step guides for onboarding  
-- Shared resources for self-development and program participation  
+# Career Academy Nedir?
+
+Career Academy, 18–35 yaş aralığındaki genç profesyoneller ve öğrenciler için
+tasarlanmış, **sürekli bire bir takip** esasına dayanan bir kariyer gelişim sistemidir.
+
+Sistem, **Caseworker – Mentee eşleşme modeli** ile çalışır.
+Takip süreci; checklist’ler, log kayıtları, kaynaklar ve gerektiğinde
+profesyonel görüşlerle desteklenir.
+
+Career Academy:
+
+- motivasyon konuşmalarıyla sınırlı değildir,
+- ilerlemeyi zaman içinde takip eder,
+- gelişimi yapılan işler üzerinden değerlendirir,
+- sürecin her adımını kayıt altına alır,
+- kişilere değil, tanımlı bir sisteme dayanır.
+
+Amaç; hiçbir menteenin kariyer sürecinde yalnız kalmamasını sağlamak ve
+ilerlemeyi **görünür, takip edilebilir ve sürdürülebilir** hale getirmektir.
 
 ---
 
-##  How to Use This Handbook
-| Audience | Where to Start |
-|-----------|----------------|
+## Bu El Kitapçığı Nasıl Kullanılır?
+
+| Kimler İçin | Nereden Başlamalı |
+|------------|------------------|
 | Caseworker | [Onboarding Checklist](caseworker/onboarding-checklist.md) |
-| Mentee | [Getting Started Guide](mentee/getting-started.md) |
-| Everyone | [Resources](resources/index.md) |
-
-
+| Mentee | [Başlangıç Rehberi](mentee/getting-started.md) |
+| Herkes | [Kaynaklar](resources/index.md) |
 
 ---
 
-##  About the Program
-Career Academy connects motivated young professionals with mentors who help them grow through:
-- Guided career planning  
-- Technical & soft skill development  
-- Real-world project experiences  
+## Program Hakkında
+
+Career Academy, gelişime açık genç profesyonelleri,
+onların sürecini düzenli olarak takip eden **Caseworker’lar** ile eşleştirir.
+
+Programın temel odağı:
+- yapılandırılmış kariyer planlaması  
+- teknik ve sosyal becerilerin geliştirilmesi  
+- gerçek hayata dayalı deneyim ve projeler  
 
 ---
 
-##  Structure
-- **Caseworker Section:** guidelines, workflows, and public-safe checklists  
-- **Mentee Section:** onboarding, roadmaps, and progress tools  
-- **Resources:** templates, forms, and helpful references  
-- **Programs:** details about our events and initiatives  
+## Yapı
+
+- **Caseworker Bölümü:** rehberler, iş akışları ve takip süreçleri  
+- **Mentee Bölümü:** onboarding, yol haritaları ve ilerleme araçları  
+- **Kaynaklar:** şablonlar ve destekleyici içerikler  
+- **Programlar:** etkinlikler ve girişimler  
 
 ---
 
-> This handbook is continuously updated.  
-If you find something outdated or missing, please contact the documentation team.
+> Bu el kitapçığı düzenli olarak güncellenir.  
+Eksik veya güncel olmayan bir içerik fark ederseniz,
+dokümantasyon ekibiyle iletişime geçebilirsiniz.

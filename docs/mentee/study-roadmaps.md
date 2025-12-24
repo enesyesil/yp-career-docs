@@ -30,7 +30,7 @@ Each roadmap will include:
 
 ---
 
-## 👮‍♂️ Public Service Tracks (Coming Soon)
+## Public Service Tracks (Coming Soon)
 
 YPCA is actively exploring roadmap partnerships for:
 - **Police Foundations and Law Enforcement** — courses, fitness prep, ethics, and situational judgment training  

@@ -1,25 +1,24 @@
-# ⚙️ How We Work
+# What Is Career Academy?
 
-Career Academy is built around one principle — mentorship should be **personal, structured, and measurable**.  
-Every mentee receives one-on-one guidance, supported by clear systems that make growth visible and sustainable.
+Career Academy is a structured career development system designed to support young people aged 18–35 through continuous one-on-one follow-up.
 
----
+It operates through a **Caseworker–Mentee matching model**, supported by checklists, logs, resources, and professional advisory input.
 
-##  Our Operational Model
+Career Academy:
 
-At the heart of our program lies the **Mentorship Group** — a stable one-on-one relationship between a caseworker and a mentee.  
-This group acts as the central unit of mentorship and growth, combining structure, flexibility, and human connection.
+- Is not limited to motivation
+- Tracks progress over time
+- Measures development through execution
+- Documents every step of the process
+- Operates as a system, not as a person-dependent initiative
 
-Each Mentorship Group includes:
-- **Caseworker** – guides, monitors, and personalizes the journey.  
-- **Mentee** – actively participates, reflects, and tracks progress.  
-- **Access to Professionals** – external mentors available through the caseworker.  
-- **Platform & Tools** – digital checklists, logs, and resources for consistency.
+Career Academy is a structured career development system designed to support young people aged 18–35 through continuous one-on-one follow-up.
 
 
 ###  Our Core: Mentorship Groups
 
-Every mentorship begins with a **Mentorship Group** — a private collaboration space shared by a single caseworker and a single mentee.  
+Every mentorship begins with a **Mentorship Group** — a private collaboration space shared by a single caseworker and a single mentee.
+
 It’s where planning, growth, and communication all happen in one unified environment.
 
 A Mentorship Group includes:
@@ -35,22 +34,6 @@ This group serves as both a **relationship** and a **process container**:
 > One mentee. One caseworker. One space — aligned on progress.
 
 ---
-
-###  Scouting
-
-We identify and invite potential mentees through outreach, referrals, and partnerships.  
-This phase focuses on discovering individuals who need structured support but might not yet have direction or access to mentorship.
-
-
-###  Diagnosis
-
-Each new mentee begins with a **diagnostic meeting** with a caseworker.  
-This helps identify their goals, stage, and readiness, allowing us to assign them to the right mentorship pathway.  
-Diagnosis ensures that no mentee is misplaced — guidance always starts from understanding.
-
----
-
-
 
 
 ```mermaid
@@ -93,10 +76,6 @@ classDef stageClass fill:#dbeafe,stroke:#3b82f6,stroke-width:2px,color:#1e3a8a,p
   class G,H finalClass
   class box boxClass
 ```
-
-
-
-
 
 
 ---
@@ -173,39 +152,6 @@ Professionals:
 
 ---
 
-## Core Event Types
-
-Every mentorship follows a predictable rhythm built around **core event types**.  
-This rhythm gives mentees a sense of progress and helps caseworkers manage multiple mentorships efficiently.
-
-| Event Type | Description | Frequency | Output |
-|-------------|--------------|------------|---------|
-| **Intake Session** | Define background, goals, and roadmap. | Once | Intake checklist completed |
-| **Mentorship Session** | Guided meetings focused on progress and feedback. | Weekly / Bi-weekly | Session log |
-| **Reflection Review** | Evaluate growth and realignment. | Monthly | Reflection log |
-| **Graduation Session** | Review achievements and next steps. | End of cycle | Graduation summary |
-| **Professional Call** | Connect with a professional mentor. | As needed | Networking notes |
-
-> These events provide rhythm and consistency — mentorship becomes predictable, sustainable, and transparent.
-
----
-
-##  The Log System
-
-Our **Log System** ensures that every mentorship remains transparent and measurable.  
-Both the mentee and the caseworker actively record updates, forming a shared timeline of growth.
-
-| Role | What They Log | Purpose |
-|------|----------------|----------|
-| **Mentee** | Reflections, progress, and completed goals. | Builds ownership and self-awareness. |
-| **Caseworker** | Session summaries, engagement, and follow-ups. | Tracks continuity and identifies support needs. |
-
-Logs create a unified record that shows how mentorship evolves week by week.  
-They also help the organization measure program-wide outcomes without revealing private details.
-
-> Two voices, one shared record — the mentee’s growth and the caseworker’s guidance combined.
-
----
 
 ##  Summary
 

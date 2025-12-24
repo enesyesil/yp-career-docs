@@ -7,6 +7,13 @@
   - [How We Work](/about/how-we-work.md)
   - [Org Structure](/about/org-structure.md)
 
+- **Caseworker Guide**
+  - [Overview](/caseworkers/index.md)
+  - [Mentee Onboarding](/caseworkers/onboarding.md)
+  - [Diagnosis Overview](/caseworkers/diagnoses-overview.md)
+  - [Meeting Guidelines & Template](/caseworkers/meeting-template.md)
+  - [FAQ](/caseworkers/faq.md)
+
 - **People**
   - [Caseworkers](/people/caseworkers.md)
   - [Mentees](/people/mentees.md)
@@ -20,6 +27,10 @@
   - [Overview](/checklists/overview.md)
   - [Samples](/checklists/samples.md)
 
+- **Log Platform**
+  - [Overview](/log-platform/index.md)
+  - [Usage & Governance](/log-platform/usage-and-governance.md)
+
 - **Mentee Hub**
   - [Overview](/mentee/index.md)
   - [Getting Started](/mentee/getting-started.md)
@@ -27,10 +38,10 @@
   - [FAQ](/mentee/faq.md)
 
 - **Programs**
-  - [Career Academy](/programs/career-academy.md)
-  - [Events & Camps](/programs/events.md)
+  - [Overview](/programs/index.md)
+  - [Synergy Meetings](/programs/synergy-meetings.md)
   - [Hidden Gems](/programs/hidden-gems.md)
-  - [Synergy Meetups](/programs/synergy-meetup.md)
+  - [Meeting & Governance](/programs/meeting-and-governance.md)
 
 - **Resources**
   - [Overview](/resources/index.md)

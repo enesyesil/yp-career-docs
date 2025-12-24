@@ -23,26 +23,28 @@ Your **caseworker** will guide you through these stages and track your progress 
 
 ##  Step 2 — Meet Your Caseworker
 
-Your assigned **caseworker** is your main point of contact and accountability partner.  
+Your assigned **caseworker** is your main point of contact and accountability partner.
+
 They will:
 - Help define your **first goals and action plan**
 - Guide you through your **onboarding checklist**
 - Walk you through the **diagnosis form**
 - Set your meeting cadence and progress system
 
-> 💡 *Your caseworker doesn’t tell you what to do — they help you figure out what matters most and keep you consistent.*
+> 💡 *Your caseworker doesn’t tell you what to do, they help you figure out what matters most and keep you consistent.*
 
 ---
 
 ##  Step 3 — Complete Your Onboarding Checklist
 
-During your first week, you’ll complete a short onboarding checklist:
+During your first week, you’ll complete a short onboarding:
+
 - Share your background and interests  
 - Fill out the **Diagnosis Form** (skills, goals, blockers)  
 - Set 1–2 short-term and 1 long-term goal  
 - Join your YPCA workspace or community group  
 
-After completing it, you’ll officially begin at the **Foundation Level**.
+After completing it, you’ll officially begin at the your determined stage.
 
 ---
 
@@ -53,7 +55,7 @@ Every YPCA mentee maintains:
 - **Action list** — 2–3 tasks per cycle  
 - **Reflection log** — brief notes on progress, challenges, and learning  
 
-> ✏️ *Documentation turns experience into data — it shows how you’ve improved, even when you forget.*
+> ✏️ *Documentation turns experience into data, it shows how you’ve improved, even when you forget.*
 
 ---
 
@@ -73,7 +75,7 @@ Consistency matters more than speed.
 When you’re ready:
 - Visit the [Study Roadmaps](study-roadmaps.md) page  
 - Discuss your roadmap with your caseworker  
-- Focus on the next small milestone — not the entire plan at once  
+- Focus on the next small milestone, not the entire plan at once  
 
 ---
 
@@ -86,4 +88,4 @@ When you’re ready:
 
 ---
 
-> 💡 *At YPCA, progress means consistency — small steps, clearly documented, repeated over time.*
+> 💡 *At YPCA, progress means consistency, small steps, clearly documented, repeated over time.*

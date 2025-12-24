@@ -1,9 +1,22 @@
-# 🌍 Our Mission
+# Mission
 
-At Career Academy, our mission is to **remove barriers to personal and professional growth** by creating a mentorship ecosystem that combines human empathy with structured, measurable support.
+The mission of Career Academy is to support young people in building clear, realistic, and sustainable career paths through structured follow-up and accountability.
 
-We exist for the students, newcomers, and young adults who often face uncertainty — those trying to find their direction, build confidence, or adapt to new environments without losing who they are.  
-We believe that potential is universal, but opportunity is not. Our role is to bridge that gap.
+Career Academy exists to:
+
+- Reduce confusion during education and career decision-making
+- Provide continuous one-on-one support instead of one-time advice
+- Replace informal guidance with a documented and trackable process
+- Connect mentees with the right people at the right time
+
+Career Academy does not aim to:
+
+- Simply motivate without follow-up
+- Provide generic career advice
+- Replace personal responsibility of the mentee
+
+Success is defined by **measurable progress**, not intention.
+
 
 ---
 
@@ -13,7 +26,7 @@ Many people start their journey with strong ambitions but lack access to consist
 They face unclear systems, cultural barriers, or the feeling of being isolated in their goals.  
 Career Academy was built to make sure that no one faces those transitions alone.
 
-We designed our program so that mentorship is not random or unstructured — it’s intentional, repeatable, and transparent.  
+We designed our program so that mentorship is not random or unstructured, it’s intentional, repeatable, and transparent.  
 Every learner receives a **personal caseworker**, joins a **mentorship group**, and follows a **guided pathway** supported by tools that track growth and reflection.
 
 > “Mentorship shouldn’t depend on luck. It should be built into the system.”

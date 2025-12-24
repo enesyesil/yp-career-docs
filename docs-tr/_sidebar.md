@@ -1,48 +1,59 @@
-
 - **Başlangıç**
   - [Hoş Geldiniz](/README.md)
 
-- **Hakkında**
+- **Hakkımızda**
   - [Misyon](/about/mission.md)
   - [Nasıl Çalışıyoruz](/about/how-we-work.md)
   - [Organizasyon Yapısı](/about/org-structure.md)
 
-- **İnsanlar**
-  - [Vaka Çalışanları](/people/caseworkers.md)
-  - [Mentiler](/people/mentees.md)
+- **Caseworker Rehberi**
+  - [Genel Bakış](/caseworkers/index.md)
+  - [Mentee Onboarding](/caseworkers/onboarding.md)
+  - [Tanı (Diagnosis) Genel Bakış](/caseworkers/diagnoses-overview.md)
+  - [Toplantı Rehberi ve Şablon](/caseworkers/meeting-template.md)
+  - [SSS](/caseworkers/faq.md)
+
+- **Kişiler**
+  - [Caseworker’lar](/people/caseworkers.md)
+  - [Mentee’ler](/people/mentees.md)
   - [Profesyoneller](/people/professionals.md)
 
-- **Vaka Çalışanı**
-  - [Genel Bakış](/caseworker/index.md)
-  - [Tanı Genel Bakış](/caseworker/diagnosis-overview.md)
-  - [Başlangıç Kontrol Listesi](/caseworker/onboarding-checklist.md)
-  - [Toplantı Şablonu](/caseworker/meeting-template.md)
+- **Tanı (Diagnosis)**
+  - [Genel Bakış](/diagnosis/overview.md)
+  - [Formlar](/diagnosis/forms.md)
 
-- **Menti Merkezi**
+- **Checklist’ler**
+  - [Genel Bakış](/checklists/overview.md)
+  - [Örnekler](/checklists/samples.md)
+
+- **Log Platformu**
+  - [Genel Bakış](/log-platform/index.md)
+  - [Kullanım ve Yönetişim](/log-platform/usage-and-governance.md)
+
+- **Mentee Merkezi**
   - [Genel Bakış](/mentee/index.md)
   - [Başlangıç Rehberi](/mentee/getting-started.md)
   - [Çalışma Yol Haritaları](/mentee/study-roadmaps.md)
-  - [Sık Sorulan Sorular](/mentee/faq.md)
+  - [SSS](/mentee/faq.md)
 
 - **Programlar**
-  - [Career Academy](/programs/career-academy.md)
-  - [Etkinlikler ve Kamplar](/programs/events.md)
-  - [Gizli Mücevherler](/programs/hidden-gems.md)
-  - [Sinergi Buluşmaları](/programs/synergy-meetup.md)
+  - [Genel Bakış](/programs/index.md)
+  - [Synergy Toplantıları](/programs/synergy-meetings.md)
+  - [Hidden Gems](/programs/hidden-gems.md)
+  - [Toplantı ve Yönetişim](/programs/meeting-and-governance.md)
 
 - **Kaynaklar**
   - [Genel Bakış](/resources/index.md)
-  - [Şablonlar](/resources/templates.md)
   - **Şablonlar**
-    - [İndeks](/resources/templates/index.md)
-    - [Jake'in LaTeX Özgeçmişi](/resources/templates/jake-latex-resume.tex)
-    - [Hızlı Özgeçmiş Rehberi](/resources/templates/simple-resume.md)
-    - [Ön Yazı](/resources/templates/cover-letter.md)
+    - [Dizin](/resources/templates/index.md)
+    - [Jake’in LaTeX CV Şablonu](/resources/templates/jake-latex-resume.tex)
+    - [Hızlı CV Rehberi](/resources/templates/simple-resume.md)
+    - [Cover Letter](/resources/templates/cover-letter.md)
     - [Dönem Planlayıcı](/resources/templates/semester-planner.md)
     - [Haftalık Çalışma Planı](/resources/templates/weekly-study-plan.md)
-    - [Son Tarih Takipçisi](/resources/templates/deadline-tracker.md)
-    - [LinkedIn Kontrol Listesi](/resources/templates/linkedin-checklist.md)
-    - [İş Takipçisi](/resources/templates/job-tracker.md)
+    - [Deadline Takipçisi](/resources/templates/deadline-tracker.md)
+    - [LinkedIn Checklist’i](/resources/templates/linkedin-checklist.md)
+    - [Başvuru Takipçisi](/resources/templates/job-tracker.md)
   - [Faydalı Bağlantılar](/resources/links.md)
 
 - **Anketler**
