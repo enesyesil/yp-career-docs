@@ -8,11 +8,11 @@
   - [Org Structure](/about/org-structure.md)
 
 - **Caseworker Guide**
-  - [Overview](/caseworkers/index.md)
-  - [Mentee Onboarding](/caseworkers/onboarding.md)
-  - [Diagnosis Overview](/caseworkers/diagnoses-overview.md)
-  - [Meeting Guidelines & Template](/caseworkers/meeting-template.md)
-  - [FAQ](/caseworkers/faq.md)
+  - [Overview](/caseworker/index.md)
+  - [Mentee Onboarding](/caseworker/onboarding.md)
+  - [Diagnosis Overview](/caseworker/diagnoses-overview.md)
+  - [Meeting Guidelines & Template](/caseworker/meeting-template.md)
+  - [FAQ](/caseworker/faq.md)
 
 - **People**
   - [Caseworkers](/people/caseworkers.md)
