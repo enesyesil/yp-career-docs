@@ -3,11 +3,7 @@
 Mentees are the **core participants** of the Career Academy.  
 Each mentee is paired with a caseworker who helps them build direction, consistency, and measurable growth toward academic or career goals.
 
----
-
-##  Purpose
-The mentee’s role is to take *active ownership* of their progress.  
-The caseworker and professors can support, but the mentee drives the action.
+Mentees are encouraged to take full advantage of this opportunity to grow. Programs that provide this level of guidance and support are rare. 
 
 ---
 

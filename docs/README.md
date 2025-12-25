@@ -31,7 +31,7 @@ The goal of Career Academy is to ensure that no mentee is left alone in their ca
 ##  How to Use This Handbook
 | Audience | Where to Start |
 |-----------|----------------|
-| Caseworker | [Onboarding Checklist](caseworker/onboarding-checklist.md) |
+| Caseworker | [Onboarding Checklist](caseworker/index.md) |
 | Mentee | [Getting Started Guide](mentee/getting-started.md) |
 | Everyone | [Resources](resources/index.md) |
 
