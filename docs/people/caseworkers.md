@@ -1,40 +1,38 @@
 # Caseworkers
 
-Caseworkers are the **core mentors** of the Career Academy.  
-They guide mentees through a structured journey — helping them define goals, build consistency, and connect to opportunities or professional insight when needed.
+Caseworkers guide mentees through a structured journey and make them aware of what they are achieving at each step.
 
----
+Caseworkers:
 
-## Purpose
-
-To help mentees **translate goals into action** by providing:
-- Personalized planning and accountability  
-- Access to Academy resources, checklists, and events  
-- Timely support during academic or career uncertainty  
-- Structured reflection and documentation at every step  
+- Help mentees define personalized goals, 
+- Provide access to Career Academy resources and professional network, 
+- Track mentees’ academic and career progress, 
+- Initiate and maintain communication with mentees. 
 
 **Caseworkers ensure that each mentee keeps moving — one realistic step at a time.**
 
 ---
 
-##  Role Overview
-
-| Focus Area | Description |
-|-------------|--------------|
-| **Diagnosis** | Identify mentee’s current stage, strengths, blockers, and direction. |
-| **Planning** | Create clear, achievable next steps using predefined checklists. |
-| **Tracking** | Review progress regularly, adjust goals, and log updates. |
-| **Support** | Encourage mentees, provide resources, and escalate complex cases. |
-
----
 
 ##  Core Workflow
 
-1. **Onboarding** – Review mentee’s background, complete the diagnosis form, and set 2–3 initial goals.  
-2. **Regular Meetings** – Conduct bi-weekly or monthly check-ins (30–45 min).  
-3. **Documentation** – After each meeting, update the mentee’s record and checklist level.  
-4. **Collaboration** – When needed, bring in a professional for career insight or networking.  
-5. **Reporting** – Summarize mentee progress at the end of each stage.
+1. **Onboarding** 
+    - Review mentee’s background, complete the diagnosis form, and set 2–3   initial goals
+    - Identify mentee’s current stage, strengths, blockers, and direction
+    - Check mentee page for important milestones 
+2. **Regular Meetings** 
+    - Conduct bi-weekly or monthly check-ins (30–45 min)
+    - Create clear, achievable next steps using predefined checklists
+3. **Documentation**
+
+    
+    - After each meeting, update the mentee’s record and checklist level
+    - Review progress regularly, adjust goals, and log updates
+
+4. **Collaboration** 
+    
+    - When needed, bring in a professional for career insight or networking.
+
 
 ---
 
@@ -47,17 +45,6 @@ To help mentees **translate goals into action** by providing:
 | **Documentation** | Log progress using Academy templates (meeting form, diagnosis, checklists). |
 | **Boundaries** | Keep discussions goal-oriented; redirect personal or sensitive topics appropriately. |
 | **Growth Mindset** | Help mentees focus on improvement, not perfection. Celebrate small wins. |
-
----
-
-##  Mentee Journey Levels
-
-| Level | Focus | Example Activities |
-|--------|--------|--------------------|
-| **Foundation** | Orientation & self-assessment | Identify interests, assess habits, learn basic tools |
-| **Candidacy** | Career readiness | Build resume, explore industries, attend workshops |
-| **Strategy** | Targeted preparation | Mock interviews, networking, refine career direction |
-| **Experience** | Execution & reflection | Apply, intern, reflect on results, set next-stage goals |
 
 ---
 
