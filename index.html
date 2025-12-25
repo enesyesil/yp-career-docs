@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Career Academy — Public</title>
+  <meta http-equiv="refresh" content="0; url=./docs/" />
+  <script>
+    // Works for both:
+    // - https://<user>.github.io/
+    // - https://<user>.github.io/<repo>/
+    (function () {
+      var path = window.location.pathname;
+      if (path.includes('/docs/') || path.includes('/docs-tr/')) return;
+
+      var hash = window.location.hash || '#/';
+      if (!path.endsWith('/')) path += '/';
+
+      window.location.replace(path + 'docs/' + hash);
+    })();
+  </script>
+</head>
+<body>
+  <p>Redirecting… If not redirected, <a href="./docs/">click here</a>.</p>
+</body>
+</html>
