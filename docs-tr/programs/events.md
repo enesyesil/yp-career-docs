@@ -1,218 +1,218 @@
-# Events Program
+# Etkinlik Programı
 
-The Events Program supports both Career Academy and our wider community.
+Etkinlik Programı hem Career Academy'yi hem de daha geniş topluluğumuzu destekler.
 
-Events are designed to activate, motivate, and connect students through practical, focused sessions — not just to “fill a calendar”.  
+Etkinlikler, öğrencileri pratik, odaklanmış oturumlar aracılığıyla harekete geçirmek, motive etmek ve birbirine bağlamak için tasarlanmıştır — sadece "takvimi doldurmak" için değil.
 
-Every event must solve a real problem and move students forward.
-
----
-
-## 1. Types of Events
-
-We run four main categories of events. Each has a specific purpose and outcome.
-
-### **1. Workshops**
-Structured 60–90 minute sessions.
-
-Common themes:
-- Planning your semester  
-- Resume and LinkedIn clinics  
-- How to talk to professionals  
-- Improving study discipline  
-
-**Purpose:**  
-Teach 1–2 actionable skills and help students leave with something *completed*, not just learned.
+Her etkinlik gerçek bir sorunu çözmeli ve öğrencileri ileriye taşımalıdır.
 
 ---
 
-### **2. Clinics / Office Hours**
-Short, focused 1:1 or small-group sessions (10–25 minutes each).
+## 1. Etkinlik Türleri
 
-Examples:
-- Resume reviews  
-- Quick career Q&A  
-- Statement of interest feedback  
+Dört ana etkinlik kategorisi yürütüyoruz. Her birinin belirli bir amacı ve sonucu vardır.
 
-**Purpose:**  
-Give direct, personalized guidance quickly.
+### **1. Atölyeler**
+60–90 dakikalık yapılandırılmış oturumlar.
 
----
+Yaygın temalar:
+- Dönemini planlama
+- CV ve LinkedIn klinikleri
+- Profesyonellerle nasıl konuşulur
+- Çalışma disiplinini geliştirme
 
-### **3. Co-Working / Study Sessions**
-Low-pressure productivity sessions (2–3 hours).
-
-Examples:
-- “Application Sprint”  
-- “Deep Work Sunday”  
-- “Finish Your Assignments”  
-
-**Purpose:**  
-Provide accountability, reduce isolation, and help students build study momentum.
+**Amaç:**
+1–2 uygulanabilir beceri öğretmek ve öğrencilerin sadece öğrenmiş değil, bir şeyi *tamamlamış* olarak ayrılmasını sağlamak.
 
 ---
 
-### **4. Community & Networking Events**
-Panels, group discussions, or informal mixers.
+### **2. Klinikler / Ofis Saatleri**
+Kısa, odaklanmış birebir veya küçük grup oturumları (her biri 10–25 dakika).
 
-Examples:
-- Industry panels  
-- Stories from transfer students  
-- Hidden gems: Pathways into tech / healthcare / business  
+Örnekler:
+- CV incelemeleri
+- Hızlı kariyer soru-cevap
+- Niyet mektubu geri bildirimi
 
-**Purpose:**  
-Show students real journeys, reduce stigma, and build confidence through community.
-
----
-
-## 2. Event Design Principles
-
-Events must follow these core principles:
-
-### **1. Problem-First Design**
-Every event must answer the question:  
-**“What struggle is this solving?”**
-
-If an event does not solve a real problem, we don’t run it.
+**Amaç:**
+Hızlı bir şekilde doğrudan, kişiselleştirilmiş rehberlik vermek.
 
 ---
 
-### **2. Clear Outcomes**
-Students should leave with at least one concrete result, such as:
-- A finished resume section  
-- A semester plan  
-- A clarified career direction  
-- A list of networking targets  
+### **3. Birlikte Çalışma / Ders Çalışma Oturumları**
+Düşük baskılı verimlilik oturumları (2–3 saat).
+
+Örnekler:
+- "Başvuru Maratonu"
+- "Derin Çalışma Pazarı"
+- "Ödevlerini Bitir"
+
+**Amaç:**
+Hesap verebilirlik sağlamak, izolasyonu azaltmak ve öğrencilerin çalışma ivmesi kazanmasına yardımcı olmak.
 
 ---
 
-### **3. Low Friction**
-Make it easy for students to join:
-- Clear time and location  
-- Simple language  
-- No unnecessary sign-up barriers  
+### **4. Topluluk ve Ağ Kurma Etkinlikleri**
+Paneller, grup tartışmaları veya gayri resmi buluşmalar.
+
+Örnekler:
+- Sektör panelleri
+- Transfer öğrencilerinden hikayeler
+- Hidden Gems: Teknoloji / sağlık / iş dünyasına alternatif yollar
+
+**Amaç:**
+Öğrencilere gerçek yolculukları göstermek, damgalamayı azaltmak ve topluluk aracılığıyla özgüven oluşturmak.
 
 ---
 
-### **4. Follow-Up Built In**
-Events are not standalone. They should lead students into:
-- Career Academy  
-- 1:1 meetings  
-- Additional resources  
-- Templates or guides  
+## 2. Etkinlik Tasarım İlkeleri
+
+Etkinlikler şu temel ilkelere uymalıdır:
+
+### **1. Önce Problem Tasarımı**
+Her etkinlik şu soruyu yanıtlamalıdır:
+**"Bu hangi zorluğu çözüyor?"**
+
+Gerçek bir sorunu çözmeyen etkinlikleri düzenlemiyoruz.
 
 ---
 
-## 3. Event Lifecycle
-
-How every event should be designed, executed, and closed out.
-
-### **Step 1 — Proposal**
-Anyone on the team can suggest an event. A short proposal includes:
-- Target audience  
-- Problem being solved  
-- Format & length  
-- Timing  
+### **2. Net Sonuçlar**
+Öğrenciler en az bir somut sonuçla ayrılmalıdır:
+- Tamamlanmış bir CV bölümü
+- Bir dönem planı
+- Netleşmiş bir kariyer yönü
+- Ağ kurma hedefleri listesi
 
 ---
 
-### **Step 2 — Approval & Scheduling**
-Check for:
-- Conflicts with exams or holidays  
-- Available facilitators  
-- Repetition with past events  
-
-Once approved:
-- Add to calendar  
-- Assign an Event Lead  
+### **3. Düşük Sürtünme**
+Öğrencilerin katılmasını kolaylaştırın:
+- Net zaman ve konum
+- Basit dil
+- Gereksiz kayıt engelleri yok
 
 ---
 
-### **Step 3 — Preparation**
-The Event Lead prepares a simple run-of-show:
-
-Includes:
-- Opening script  
-- Timing breakdown  
-- Slides or handouts  
-- Tech setup  
-- Guest confirmations (if needed)
+### **4. Takip Dahil**
+Etkinlikler bağımsız değildir. Öğrencileri şunlara yönlendirmelidir:
+- Career Academy
+- Birebir toplantılar
+- Ek kaynaklar
+- Şablonlar veya rehberler
 
 ---
 
-### **Step 4 — Promotion**
-Use simple messaging with:
-- Clear benefits  
-- Problem it solves (“If you struggle with X…”)  
-- 3 bullets on what students will get  
-- Registration or RSVP  
+## 3. Etkinlik Yaşam Döngüsü
 
-Channels:
-- Discord  
-- WhatsApp  
-- Email  
-- Posters / campus flyers  
+Her etkinliğin nasıl tasarlanması, yürütülmesi ve sonlandırılması gerektiği.
+
+### **Adım 1 — Öneri**
+Ekipteki herkes bir etkinlik önerebilir. Kısa bir öneri şunları içerir:
+- Hedef kitle
+- Çözülen problem
+- Format ve süre
+- Zamanlama
 
 ---
 
-### **Step 5 — Running the Event**
-During the event:
-- Start on time  
-- Briefly explain who we are  
-- Keep the tone friendly, practical, and non-judgmental  
-- Collect attendance  
-- Gather quick feedback (optional)  
+### **Adım 2 — Onay ve Planlama**
+Şunlar kontrol edilir:
+- Sınav veya tatil çakışmaları
+- Mevcut kolaylaştırıcılar
+- Geçmiş etkinliklerle tekrar
+
+Onaylandıktan sonra:
+- Takvime eklenir
+- Bir Etkinlik Lideri atanır
 
 ---
 
-### **Step 6 — Follow-Up**
-Within 48 hours:
-- Send slides, notes, or templates  
-- Invite students to book 1:1s  
-- Notify caseworkers of students needing follow-up  
-- Log event details in data system (attendance, feedback, outcomes)
+### **Adım 3 — Hazırlık**
+Etkinlik Lideri basit bir akış planı hazırlar:
+
+İçerir:
+- Açılış metni
+- Zamanlama dağılımı
+- Slaytlar veya el ilanları
+- Teknik kurulum
+- Konuk onayları (gerekirse)
 
 ---
 
-## 4. Roles
+### **Adım 4 — Tanıtım**
+Basit mesajlaşma kullanın:
+- Net faydalar
+- Çözdüğü problem ("X ile zorlanıyorsan…")
+- Öğrencilerin ne elde edeceğine dair 3 madde
+- Kayıt veya RSVP
 
-### **Event Lead**
-- Owns planning and workflow  
-- Prepares materials  
-- Handles communication  
-
-### **Facilitator / Speaker**
-- Delivers content  
-- Engages participants  
-- Supports Q&A  
-
-### **Host / Support**
-- Manages room or Zoom  
-- Checks people in  
-- Solves logistics  
-
-### **Caseworkers**
-- Attend when possible  
-- Connect attendees to long-term support  
-- Identify students who might fit Career Academy  
+Kanallar:
+- Discord
+- WhatsApp
+- E-posta
+- Posterler / kampüs el ilanları
 
 ---
 
-## 5. Connecting Events to Other Programs
-
-- **Career Academy**  
-  Events act as an entry point; many mentees begin here.
-
-- **Outreach Film & Media**  
-  Events provide opportunities for capturing stories, testimonials, and community footage.
-
-- **Surveys & Data**  
-  Event attendance and feedback help identify trends:
-  - What topics students struggle with most  
-  - Which events lead to the most follow-up  
-  - Which problems are becoming more common  
+### **Adım 5 — Etkinliği Yürütme**
+Etkinlik sırasında:
+- Zamanında başla
+- Biz kimiz kısaca açıkla
+- Tonu samimi, pratik ve yargısız tut
+- Katılım al
+- Hızlı geri bildirim topla (isteğe bağlı)
 
 ---
 
-Events are not about entertainment — they are about movement.  
-Each event should help a student take one step forward, however small.
+### **Adım 6 — Takip**
+48 saat içinde:
+- Slaytları, notları veya şablonları gönder
+- Öğrencileri birebir toplantı planlamaya davet et
+- Takip gerektiren öğrenciler hakkında caseworker'ları bilgilendir
+- Etkinlik detaylarını veri sistemine kaydet (katılım, geri bildirim, sonuçlar)
+
+---
+
+## 4. Roller
+
+### **Etkinlik Lideri**
+- Planlama ve iş akışını yönetir
+- Materyalleri hazırlar
+- İletişimi yürütür
+
+### **Kolaylaştırıcı / Konuşmacı**
+- İçeriği sunar
+- Katılımcılarla etkileşime girer
+- Soru-cevabı destekler
+
+### **Ev Sahibi / Destek**
+- Oda veya Zoom'u yönetir
+- Kişileri kaydeder
+- Lojistik sorunları çözer
+
+### **Caseworker'lar**
+- Mümkün olduğunda katılır
+- Katılımcıları uzun vadeli destekle buluşturur
+- Career Academy'ye uygun olabilecek öğrencileri belirler
+
+---
+
+## 5. Etkinlikleri Diğer Programlara Bağlama
+
+- **Career Academy**
+  Etkinlikler giriş noktası görevi görür; birçok mentee buradan başlar.
+
+- **Tanıtım Film ve Medya**
+  Etkinlikler hikaye, referans ve topluluk çekimi için fırsatlar sunar.
+
+- **Anketler ve Veri**
+  Etkinlik katılımı ve geri bildirimi eğilimleri belirlemeye yardımcı olur:
+  - Öğrencilerin en çok zorlandığı konular
+  - Hangi etkinliklerin en fazla takibe yol açtığı
+  - Hangi sorunların daha yaygın hale geldiği
+
+---
+
+Etkinlikler eğlence için değildir — hareket içindir.
+Her etkinlik, öğrencinin ne kadar küçük olursa olsun bir adım ileri atmasına yardımcı olmalıdır.

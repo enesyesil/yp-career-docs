@@ -1,170 +1,170 @@
-# Hidden Gems Program
+# Hidden Gems Programı
 
-Hidden Gems is our signature career-exploration series.  
-Its goal is simple: **help students discover high-demand, stable, and meaningful careers that are often overlooked — and connect them directly with professionals working in those fields.**
+Hidden Gems, kariyer keşfi odaklı etkinlik serimizdir.  
+Amacı basittir: **öğrencilerin genellikle gözden kaçan, talep gören, istikrarlı ve anlamlı kariyerleri keşfetmelerine yardımcı olmak — ve onları bu alanlarda çalışan profesyonellerle doğrudan buluşturmak.**
 
-These careers are “hidden” not because they are rare, but because most students **never hear about them**, don’t know where to start, or assume they are “too hard” or “not for them”.
+Bu kariyerler "gizli" çünkü nadir değiller; çoğu öğrenci bunları **hiç duymamış**, nereden başlayacağını bilmiyor veya "çok zor" ya da "benim için değil" diye varsayıyor.
 
-Hidden Gems fixes that by bringing real frontline experts, instructors, and professionals into the room to share their journey, requirements, and advice.
-
----
-
-## 1. Purpose of Hidden Gems
-
-Hidden Gems exists to:
-
-- Expose students to **high-demand careers** they wouldn’t normally consider  
-- Break stereotypes about “traditional” career paths  
-- Provide clarity on certifications, training pathways, and provincial differences  
-- Give students **direct access** to professionals and HR perspectives  
-- Help students find stable, mission-driven careers in Canada  
-- Build confidence through real stories and open Q&A  
-
-Our board and program team actively research industries to identify roles where:
-- Demand is rising  
-- Entry requirements are realistic  
-- Stability and long-term growth are strong  
-- Students lack awareness  
+Hidden Gems, gerçek saha uzmanlarını, eğitmenleri ve profesyonelleri öğrencilerle buluşturarak bu sorunu çözer. Katılımcılar, bu kişilerin yolculuklarını, gereksinimleri ve tavsiyelerini doğrudan dinler.
 
 ---
 
-## 2. The Hidden Gems Approach
+## 1. Hidden Gems'in Amacı
 
-Each Hidden Gems event uses a consistent formula:
+Hidden Gems şu amaçlarla var:
 
-### **1. Identify a sector with strong opportunities**
-Examples:
-- Public service  
-- Healthcare  
-- Education  
-- Skilled trades  
-- Emergency services  
+- Öğrencileri normalde düşünmeyecekleri **yüksek talep gören kariyerlere** maruz bırakmak
+- "Geleneksel" kariyer yolları hakkındaki önyargıları kırmak
+- Sertifikalar, eğitim yolları ve eyalet farklılıkları konusunda netlik sağlamak
+- Öğrencilere profesyonellere ve İK perspektiflerine **doğrudan erişim** vermek
+- Öğrencilerin Kanada'da istikrarlı, misyon odaklı kariyerler bulmasına yardımcı olmak
+- Gerçek hikayeler ve açık soru-cevap oturumları aracılığıyla özgüven oluşturmak
 
-### **2. Invite professionals who actually work in the field**
-We look for people who can speak honestly about:
-- Their path into the career  
-- What training and certifications were required  
-- What surprised them  
-- Advice for newcomers and students  
-
-### **3. Provide a clean, structured breakdown during the event**
-Every event covers:
-- What the career looks like  
-- Required certifications  
-- Salary ranges & career progression  
-- Provincial differences  
-- Day-to-day reality  
-- How to prepare in university or college  
-- How to apply or gain relevant experience  
-
-### **4. Make it interactive**
-Students have opportunities to ask:
-- Personal questions  
-- Career-specific details  
-- Application guidance  
-- Experience or volunteer recommendations  
+Yönetim kurulumuz ve program ekibimiz, şu kriterlere uyan rolleri belirlemek için sektörleri aktif olarak araştırır:
+- Talep artıyor
+- Giriş gereksinimleri gerçekçi
+- İstikrar ve uzun vadeli büyüme güçlü
+- Öğrencilerin farkındalığı düşük
 
 ---
 
-## 3. Examples of Hidden Gems Events
+## 2. Hidden Gems Yaklaşımı
 
-Below are the first two events in the series.
+Her Hidden Gems etkinliği tutarlı bir formül izler:
+
+### **1. Güçlü fırsatlar sunan bir sektör belirleme**
+Örnekler:
+- Kamu hizmeti
+- Sağlık
+- Eğitim
+- Vasıflı meslekler
+- Acil durum hizmetleri
+
+### **2. Alanda gerçekten çalışan profesyonelleri davet etme**
+Şu konularda dürüstçe konuşabilecek kişileri arıyoruz:
+- Kariyere nasıl girdikleri
+- Hangi eğitim ve sertifikaların gerektiği
+- Onları neyin şaşırttığı
+- Yeni başlayanlar ve öğrenciler için tavsiyeleri
+
+### **3. Etkinlik sırasında temiz, yapılandırılmış bir sunum sağlama**
+Her etkinlik şunları kapsar:
+- Kariyer neye benziyor
+- Gerekli sertifikalar
+- Maaş aralıkları ve kariyer ilerlemesi
+- Eyalet farklılıkları
+- Günlük gerçeklik
+- Üniversite veya kolejde nasıl hazırlanılır
+- Nasıl başvurulur veya ilgili deneyim kazanılır
+
+### **4. Etkileşimli hale getirme**
+Öğrenciler şunları sorma fırsatı bulur:
+- Kişisel sorular
+- Kariyere özel detaylar
+- Başvuru rehberliği
+- Deneyim veya gönüllülük önerileri
 
 ---
 
-### **Hidden Gems #1 — Public Service: Firefighter & Police Officer**
+## 3. Hidden Gems Etkinlik Örnekleri
 
-A session featuring real frontline professionals who explained:
-- How to become a firefighter or police officer in Canada  
-- Fitness requirements and training academies  
-- Mental demands and safety requirements  
-- Provincial requirements and hiring cycles  
-- Salary progression and long-term opportunities  
+Aşağıda serideki ilk iki etkinlik yer almaktadır.
 
-**Event Details:**  
-- **Date:** July 17, 2025  
-- **Time:** 7:30 PM – 10:30 PM  
-- **Location:** Milliken Mills Community Centre  
+---
 
-Images from the event (for documentation or archives):
+### **Hidden Gems #1 — Kamu Hizmeti: İtfaiyeci ve Polis Memuru**
 
-- Public Service Event Poster  
+Gerçek saha profesyonellerinin şunları açıkladığı bir oturum:
+- Kanada'da itfaiyeci veya polis memuru nasıl olunur
+- Fiziksel gereksinimler ve eğitim akademileri
+- Zihinsel talepler ve güvenlik gereksinimleri
+- Eyalet gereksinimleri ve işe alım döngüleri
+- Maaş ilerlemesi ve uzun vadeli fırsatlar
+
+**Etkinlik Detayları:**
+- **Tarih:** 17 Temmuz 2025
+- **Saat:** 19:30 – 22:30
+- **Konum:** Milliken Mills Toplum Merkezi
+
+Etkinlik görselleri (dokümantasyon veya arşiv için):
+
+- Kamu Hizmeti Etkinlik Posteri
   ![](../images/ypca-career-academy-hidden-gems-public-service.webp)
 
 ---
 
-### **Hidden Gems #2 — Teaching Career in Canada**
+### **Hidden Gems #2 — Kanada'da Öğretmenlik Kariyeri**
 
-A focused seminar on:
-- How to become a teacher in Canada  
-- Required certifications (B.Ed, OCT, provincial boards)  
-- Differences between provinces  
-- Career pathways from instructor to teaching roles  
-- Job stability and demand trends  
+Şu konulara odaklanan bir seminer:
+- Kanada'da nasıl öğretmen olunur
+- Gerekli sertifikalar (B.Ed, OCT, eyalet kurulları)
+- Eyaletler arası farklar
+- Eğitmen rollerinden öğretmenlik rollerine kariyer yolları
+- İş istikrarı ve talep eğilimleri
 
-**Speaker:**  
-Omer Kaya  
-Instructor / Math Teacher, University of Alberta
+**Konuşmacı:**
+Ömer Kaya
+Eğitmen / Matematik Öğretmeni, Alberta Üniversitesi
 
-**Event Details:**  
-- **Date:** November 12, 2025  
-- **Time:** 8 PM – 9 PM  
-- **Location:** Online (Zoom)—details emailed to attendees  
+**Etkinlik Detayları:**
+- **Tarih:** 12 Kasım 2025
+- **Saat:** 20:00 – 21:00
+- **Konum:** Online (Zoom) — detaylar katılımcılara e-posta ile gönderilecek
 
-Images from the event:
+Etkinlik görselleri:
 
-- Teaching Career Event Poster  
+- Öğretmenlik Kariyeri Etkinlik Posteri
   ![](../images/teaching-career.webp)
 
 ---
 
-## 4. How Hidden Gems Supports Career Academy
+## 4. Hidden Gems Career Academy'yi Nasıl Destekliyor?
 
-Hidden Gems events are part of a larger support pipeline.
+Hidden Gems etkinlikleri daha geniş bir destek hattının parçasıdır.
 
-**For mentees in Career Academy:**
-- Helps clarify long-term career direction  
-- Gives realistic insights before investing years into a program  
-- Builds motivation by showing real success stories  
-- Provides concrete next actions (certifications, volunteering, training)  
-- Caseworkers can use insights from these events to redirect pathways  
+**Career Academy'deki mentee'ler için:**
+- Uzun vadeli kariyer yönünün netleşmesine yardımcı olur
+- Bir programa yıllar yatırmadan önce gerçekçi içgörüler sağlar
+- Gerçek başarı hikayeleri göstererek motivasyon oluşturur
+- Somut sonraki adımlar sunar (sertifikalar, gönüllülük, eğitim)
+- Caseworker'lar bu etkinliklerden edinilen içgörüleri kullanarak yolları yeniden yönlendirebilir
 
-**For new students:**
-- Acts as an entry point into our programs  
-- Helps break fear around starting a new career  
-- Creates an immediate connection with real professionals  
-
----
-
-## 5. What Makes Hidden Gems Different
-
-- No vague motivational speeches  
-- No gatekeeping  
-- No sugar-coating  
-- Real professionals, real stories, real steps  
-- Practical, honest guidance that students can actually use  
-
-Each session is built with one goal:  
-**Help students discover strong, meaningful careers they never knew existed — and give them the plan to get started.**
+**Yeni öğrenciler için:**
+- Programlarımıza giriş noktası görevi görür
+- Yeni bir kariyere başlama korkusunu kırmaya yardımcı olur
+- Gerçek profesyonellerle anında bağlantı oluşturur
 
 ---
 
-## 6. Future Hidden Gems Topics
+## 5. Hidden Gems'i Farklı Kılan Nedir?
 
-We plan to expand to industries such as:
+- Belirsiz motivasyon konuşmaları yok
+- Bilgi saklama yok
+- Şeker kaplama yok
+- Gerçek profesyoneller, gerçek hikayeler, gerçek adımlar
+- Öğrencilerin gerçekten kullanabileceği pratik, dürüst rehberlik
 
-- Skilled trades  
-- Energy & utilities  
-- Healthcare specialties  
-- Non-profit leadership  
-- Government agencies  
-- Immigration & settlement careers  
-- Community services  
-- Technical roles outside tech (lab tech, safety inspector, etc.)  
-
-Each upcoming topic is chosen based on **market demand, stability, accessibility, and student interest**.
+Her oturum tek bir hedefle oluşturulur:
+**Öğrencilerin var olduğunu bilmedikleri güçlü, anlamlı kariyerleri keşfetmelerine yardımcı olmak — ve başlamaları için bir plan vermek.**
 
 ---
 
-Hidden Gems is one of our most impactful programs.  
-It opens doors, sparks new ambitions, and helps students see the future more clearly and confidently.
+## 6. Gelecek Hidden Gems Konuları
+
+Şu sektörlere genişlemeyi planlıyoruz:
+
+- Vasıflı meslekler
+- Enerji ve kamu hizmetleri
+- Sağlık uzmanlıkları
+- Kar amacı gütmeyen liderlik
+- Devlet kurumları
+- Göç ve yerleşim kariyerleri
+- Toplum hizmetleri
+- Teknoloji dışı teknik roller (laboratuvar teknisyeni, güvenlik müfettişi vb.)
+
+Her yaklaşan konu **piyasa talebi, istikrar, erişilebilirlik ve öğrenci ilgisine** göre seçilir.
+
+---
+
+Hidden Gems en etkili programlarımızdan biridir.
+Kapılar açar, yeni hedefler ateşler ve öğrencilerin geleceği daha net ve güvenle görmelerine yardımcı olur.

@@ -1,146 +1,146 @@
-# Synergy Meetups Program
+# Synergy Buluşmaları Programı
 
-Synergy Meetups are informal, interest-based gatherings where students and young professionals with similar goals, backgrounds, or career fields come together to share knowledge, discuss opportunities, and build meaningful networks.
+Synergy Buluşmaları, benzer hedefleri, geçmişleri veya kariyer alanları olan öğrencilerin ve genç profesyonellerin bilgi paylaşmak, fırsatları tartışmak ve anlamlı ağlar kurmak için bir araya geldiği gayri resmi, ilgi alanı bazlı toplantılardır.
 
-Unlike workshops or Career Academy sessions, Synergy Meetups are **community-driven**. We only provide a space for people who are “on the same path” to support each other, exchange insights, and grow together.
-
----
-
-## 1. Purpose of Synergy Meetups
-
-The goal is simple:  
-**Put like-minded people in the same room and let natural synergy do the rest.**
-
-Synergy Meetups exist to:
-
-- Connect students with peers in the same field or direction  
-- Reduce isolation for those navigating a difficult or competitive path 
-- Create organic community support initiative and career conversations  
-- Encourage information-sharing, advice, and networking  
-- Build long-term professional communities  
-- Help students grow confidence by meeting others “like them”  
-
-These meetups complement Career Academy and Hidden Gems by offering a more open, peer-driven environment.
+Atölye çalışmaları veya Career Academy oturumlarının aksine, Synergy Buluşmaları **topluluk odaklıdır**. Biz yalnızca "aynı yolda olan" insanlara birbirlerini desteklemeleri, içgörü paylaşmaları ve birlikte büyümeleri için bir alan sağlıyoruz.
 
 ---
 
-## 2. Who Synergy Meetups Are For
+## 1. Synergy Buluşmalarının Amacı
 
-- Students exploring a specific field  
-- New graduates who need peer support  
-- People who want to grow their network  
-- Professionals who want to support juniors, contribute to their community, and expand their own network  
+Amaç basittir:
+**Benzer düşünceli insanları aynı odaya koyun ve doğal sinerjinin gerisini yapmasına izin verin.**
 
-There is **no requirement** to be in Career Academy — Synergy Meetups are open and flexible.
+Synergy Buluşmaları şu amaçlarla var:
 
----
+- Aynı alan veya yöndeki akranlarla öğrencileri buluşturmak
+- Zorlu veya rekabetçi bir yolda ilerleyenlerin izolasyonunu azaltmak
+- Organik topluluk desteği ve kariyer sohbetleri oluşturmak
+- Bilgi paylaşımını, tavsiyeyi ve ağ kurmayı teşvik etmek
+- Uzun vadeli profesyonel topluluklar inşa etmek
+- Öğrencilerin "kendileri gibi" başkalarıyla tanışarak özgüven kazanmalarına yardımcı olmak
 
-## 3. Example Synergy Groups
-
-These groups evolve naturally based on interest and demand. Examples include:
-
-1. **Tech & Engineering Synergy**
-
-2. **Healthcare & Community Services Synergy**
-
-3. **Education & Teaching Synergy**
-
-4. **Public Service & Law Enforcement Synergy**
-
-5. **Business & Entrepreneurship Synergy**
-
-6. **Law & Legal Careers Synergy**
-
-New synergy groups can be created anytime based on interest.
+Bu buluşmalar, Career Academy ve Hidden Gems'i daha açık, akran odaklı bir ortam sunarak tamamlar.
 
 ---
 
-## 4. What Happens During a Synergy Meetup
+## 2. Synergy Buluşmaları Kimler İçin?
 
-Synergy Meetups are intentionally simple.
+- Belirli bir alanı keşfeden öğrenciler
+- Akran desteğine ihtiyaç duyan yeni mezunlar
+- Ağlarını genişletmek isteyenler
+- Daha az deneyimlileri desteklemek, topluluklarına katkıda bulunmak ve kendi ağlarını genişletmek isteyen profesyoneller
 
-A typical session includes:
-
-1. **Introductions**  
-   Everyone shares a quick “who I am” and their goals.
-
-2. **Open Discussion**  
-   - Current challenges  
-   - Career questions  
-   - Confusion or uncertainties  
-   - Lessons learned  
-   - Opportunities people know about  
-
-3. **Knowledge Sharing**  
-   Participants exchange:
-   - Credentials and certification requirements  
-   - Program comparisons  
-   - Work experiences  
-   - Job search tips  
-   - Study methods  
-
-4. **Networking + Social Time**  
-   People connect with those who have similar journeys.
-
-5. **Optional: Short Insight Round**  
-   - “What’s one thing you learned today?”  
-   - “What’s your next step?”  
-
-The session has structure — but stays light, conversational, and flexible.
+Career Academy'de olmak **zorunlu değildir** — Synergy Buluşmaları açık ve esnektir.
 
 ---
 
-## 5. Principles of Synergy Meetups
+## 3. Örnek Synergy Grupları
 
-1. **Peer-Led, Not Instructor-Led**  
-   The power comes from participants learning from each other.
+Bu gruplar ilgi ve talebe göre doğal olarak gelişir. Örnekler:
 
-2. **Open and Judgment-Free**  
-   Students can express confusion without pressure.
+1. **Teknoloji ve Mühendislik Synergy**
 
-3. **Practical, Not Theoretical**  
-   Discussions focus on real experiences and actionable insights.
+2. **Sağlık ve Toplum Hizmetleri Synergy**
 
-4. **Consistency Without Obligation**  
-   Meetups may run monthly or biweekly, but attendance is optional.
+3. **Eğitim ve Öğretmenlik Synergy**
 
-5. **Safe and Respectful Space**  
-   Professionalism, confidentiality, and supportive tone are expected.
+4. **Kamu Hizmeti ve Kolluk Kuvvetleri Synergy**
 
----
+5. **İş ve Girişimcilik Synergy**
 
-## 6. How Synergy Meetups Support Career Academy
+6. **Hukuk ve Hukuki Kariyer Synergy**
 
-Career Academy gives structure.  
-Hidden Gems provides exposure to real fields.  
-**Synergy Meetups build community.**
-
-Caseworkers can use Synergy Meetups to:
-
-- Introduce mentees to peers with similar paths  
-- Reduce isolation for students in demanding programs  
-- Encourage networking outside formal sessions  
-- Help students gather field-specific insights that caseworkers may not know  
-
-Many mentees find new direction, motivation, or opportunities simply by talking to someone further along the same path.
+İlgiye bağlı olarak her zaman yeni synergy grupları oluşturulabilir.
 
 ---
 
-## 7. Starting a New Synergy Group
+## 4. Bir Synergy Buluşmasında Ne Olur?
 
-Anyone can request or start a new group.
+Synergy Buluşmaları kasıtlı olarak basittir.
 
-To launch one:
+Tipik bir oturum şunları içerir:
 
-1. Identify a field or shared interest  
-2. Confirm at least 3–5 interested participants  
-3. Choose a location (in-person or online)  
-4. Select a facilitator (caseworker or volunteer)  
-5. Run a simple first session  
-6. Let the group grow naturally  
+1. **Tanışma**
+   Herkes kısa bir "ben kimim" ve hedeflerini paylaşır.
+
+2. **Açık Tartışma**
+   - Mevcut zorluklar
+   - Kariyer soruları
+   - Karışıklık veya belirsizlikler
+   - Öğrenilen dersler
+   - Bilinen fırsatlar
+
+3. **Bilgi Paylaşımı**
+   Katılımcılar şunları değiştirir:
+   - Yeterlilikler ve sertifika gereksinimleri
+   - Program karşılaştırmaları
+   - İş deneyimleri
+   - İş arama ipuçları
+   - Çalışma yöntemleri
+
+4. **Ağ Kurma + Sosyal Zaman**
+   İnsanlar benzer yolculuklara sahip olanlarla bağlantı kurar.
+
+5. **İsteğe Bağlı: Kısa İçgörü Turu**
+   - "Bugün öğrendiğin bir şey nedir?"
+   - "Bir sonraki adımın ne?"
+
+Oturumun yapısı vardır — ama hafif, sohbet havasında ve esnek kalır.
 
 ---
 
-Synergy Meetups help students realize:  
-**You don’t have to figure everything out alone.**  
-Sometimes, the people walking beside you are the best mentors you can get.
+## 5. Synergy Buluşmaları İlkeleri
+
+1. **Akran Liderliğinde, Eğitmen Liderliğinde Değil**
+   Güç, katılımcıların birbirinden öğrenmesinden gelir.
+
+2. **Açık ve Yargısız**
+   Öğrenciler baskı olmadan belirsizliklerini ifade edebilir.
+
+3. **Pratik, Teorik Değil**
+   Tartışmalar gerçek deneyimlere ve uygulanabilir içgörülere odaklanır.
+
+4. **Zorunluluk Olmadan Tutarlılık**
+   Buluşmalar aylık veya iki haftada bir yapılabilir, ancak katılım isteğe bağlıdır.
+
+5. **Güvenli ve Saygılı Alan**
+   Profesyonellik, gizlilik ve destekleyici ton beklenir.
+
+---
+
+## 6. Synergy Buluşmaları Career Academy'yi Nasıl Destekliyor?
+
+Career Academy yapı sağlar.
+Hidden Gems gerçek alanlara maruz kalma sağlar.
+**Synergy Buluşmaları topluluk oluşturur.**
+
+Caseworker'lar Synergy Buluşmalarını şu şekillerde kullanabilir:
+
+- Mentee'leri benzer yollara sahip akranlarla tanıştırmak
+- Zorlu programlardaki öğrencilerin izolasyonunu azaltmak
+- Resmi oturumların dışında ağ kurmayı teşvik etmek
+- Caseworker'ların bilmeyebileceği alana özgü içgörüler edinmelerine yardımcı olmak
+
+Birçok mentee, aynı yolda daha ileride olan biriyle konuşarak yeni yön, motivasyon veya fırsatlar bulur.
+
+---
+
+## 7. Yeni Bir Synergy Grubu Başlatma
+
+Herkes yeni bir grup talep edebilir veya başlatabilir.
+
+Başlatmak için:
+
+1. Bir alan veya ortak ilgi belirleyin
+2. En az 3–5 ilgili katılımcı onaylayın
+3. Bir konum seçin (yüz yüze veya online)
+4. Bir kolaylaştırıcı seçin (caseworker veya gönüllü)
+5. Basit bir ilk oturum düzenleyin
+6. Grubun doğal olarak büyümesine izin verin
+
+---
+
+Synergy Buluşmaları, öğrencilerin şunu fark etmelerine yardımcı olur:
+**Her şeyi tek başınıza çözmek zorunda değilsiniz.**
+Bazen yanınızda yürüyenler, alabileceğiniz en iyi mentorlar olabilir.
