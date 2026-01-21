@@ -20,7 +20,7 @@
 - **Caseworker Rehberi**
   - [Genel Bakış](/caseworker/index.md)
   - [Mentee Onboarding](/caseworker/onboarding.md)
-  - [Tanı Süreci](/caseworker/diagnosis-overview.md)
+  - [Diagnosis Süreci](/caseworker/diagnosis-overview.md)
   - [Toplantı Rehberi ve Şablon](/caseworker/meeting-template.md)
   - [SSS](/caseworker/faq.md)
 

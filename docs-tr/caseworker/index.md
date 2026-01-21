@@ -48,7 +48,7 @@ Bu rehber, sizi sırasıyla destekleyecek şekilde yapılandırılmıştır:
 1. **Onboarding**  
    Başlamadan önce ve sonra bilmeniz gerekenler.
 
-2. **Tanı Sürecine Genel Bakış**  
+2. **Diagnosis Sürecine Genel Bakış**  
    Aşamaların nasıl belirlendiği ve bunları nasıl yorumlamanız gerektiği.
 
 3. **Toplantı Şablonu**  

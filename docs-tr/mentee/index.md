@@ -1,7 +1,7 @@
 # YPCA Career Academy — Menti Merkezi
 
 **YPCA Career Academy (YPCA)** alanınıza hoş geldiniz.  
-Bu bölüm **mentiler** için tasarlanmıştır — vaka çalışanları ve YPCA topluluğunun desteğiyle akademik ve kariyer büyümesi üzerinde aktif olarak çalışan öğrenciler.
+Bu bölüm **mentiler** için tasarlanmıştır — caseworker'lar ve YPCA topluluğunun desteğiyle akademik ve kariyer büyümesi üzerinde aktif olarak çalışan öğrenciler.
 
 Burada, Akademinin nasıl çalıştığını anlamak, hedeflerinizi belirlemek ve tutarlı ilerleme kaydetmek için ihtiyacınız olan her şeyi bulacaksınız.
 
@@ -9,7 +9,7 @@ Burada, Akademinin nasıl çalıştığını anlamak, hedeflerinizi belirlemek v
 
 ##  YPCA'nın Sundukları
 
-- Eğitimli vaka çalışanlarıyla yapılandırılmış bir **mentorluk sistemi**  
+- Eğitimli caseworker'larla yapılandırılmış bir **mentorluk sistemi**  
 - Planlama yapmanıza ve hesap verebilir kalmanıza yardımcı olan araçlar ve kontrol listeleri  
 - Öğrenme veya kariyer yolunuzu yönlendirmek için yol haritaları ve kaynaklar  
 - Etkinliklere, profesyonellere ve topluluk desteğine erişim  
@@ -33,7 +33,7 @@ Burada, Akademinin nasıl çalıştığını anlamak, hedeflerinizi belirlemek v
 
 | Rol | Ne Yaparlar |
 |------|---------------|
-| **Vaka Çalışanı** | Ana rehberiniz — yapı, tutarlılık ve hesap verebilirlik konusunda yardımcı olur |
+| **Caseworker** | Ana rehberiniz — yapı, tutarlılık ve hesap verebilirlik konusunda yardımcı olur |
 | **Profesyoneller** | Gerektiğinde ara sıra kariyer tavsiyesi veya ağ kurma ipuçları sunar |
 | **Program Liderleri** | İlerlemenizi denetler ve tüm YPCA girişimlerinde kaliteyi sağlar |
 
@@ -53,7 +53,7 @@ Burada, Akademinin nasıl çalıştığını anlamak, hedeflerinizi belirlemek v
 ## 🔗 İlgili Bölümler
 
 - [YPCA Hakkında](../about/mission.md)  
-- [Vaka Çalışanı Rehberi](../people/caseworkers.md)  
+- [Caseworker Rehberi](../people/caseworkers.md)  
 - [Programlar ve Etkinlikler](../programs/events.md)  
 - [Anketler ve Geri Bildirim](../surveys/overview.md)
 

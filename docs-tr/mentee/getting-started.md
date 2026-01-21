@@ -17,20 +17,20 @@ Akademi, büyümenin **dört yapılandırılmış seviyesi** boyunca ilerlemeniz
 | **Strategy** | Sonuçlar için planla | Becerileri gerçek dünya rollerine hizala, mülakatları pratik yap |
 | **Experience** | Harekete geç ve yansıt | Roller için başvur, staj yap veya girişimlere öncülük et |
 
-**Vaka çalışanınız** bu aşamalarda size rehberlik edecek ve YPCA kontrol listeleri ve toplantı şablonlarını kullanarak ilerlemenizi takip edecektir.
+**Caseworker'ınız** bu aşamalarda size rehberlik edecek ve YPCA kontrol listeleri ve toplantı şablonlarını kullanarak ilerlemenizi takip edecektir.
 
 ---
 
-##  Adım 2 — Vaka Çalışanınızla Tanışın
+##  Adım 2 — Caseworker'ınızla Tanışın
 
-Atanan **vaka çalışanınız** ana iletişim noktanız ve hesap verebilirlik ortağınızdır.  
+Atanan **caseworker'ınız** ana iletişim noktanız ve hesap verebilirlik ortağınızdır.  
 Şunları yapacaklar:
 - **İlk hedeflerinizi ve eylem planınızı** tanımlamanıza yardımcı olacaklar
 - **Başlangıç kontrol listeniz** boyunca size rehberlik edecekler
-- **Tanı formu** boyunca size yol gösterecekler
+- **Diagnosis Form** boyunca size yol gösterecekler
 - Toplantı ritminizi ve ilerleme sisteminizi belirleyecekler
 
-> 💡 *Vaka çalışanınız size ne yapacağınızı söylemez — en önemli olanı bulmanıza ve tutarlı kalmanıza yardımcı olur.*
+> 💡 *Caseworker'ınız size ne yapacağınızı söylemez — en önemli olanı bulmanıza ve tutarlı kalmanıza yardımcı olur.*
 
 ---
 
@@ -38,7 +38,7 @@ Atanan **vaka çalışanınız** ana iletişim noktanız ve hesap verebilirlik o
 
 İlk haftanız boyunca, kısa bir başlangıç kontrol listesi tamamlayacaksınız:
 - Geçmişinizi ve ilgi alanlarınızı paylaşın  
-- **Tanı Formunu** doldurun (beceriler, hedefler, engeller)  
+- **Diagnosis Form**'u doldurun (beceriler, hedefler, engeller)  
 - 1–2 kısa vadeli ve 1 uzun vadeli hedef belirleyin  
 - YPCA çalışma alanınıza veya topluluk grubunuza katılın  
 
@@ -72,7 +72,7 @@ Tutarlılık hızdan daha önemlidir.
 
 Hazır olduğunuzda:
 - [Çalışma Yol Haritaları](study-roadmaps.md) sayfasını ziyaret edin  
-- Yol haritanızı vaka çalışanınızla tartışın  
+- Yol haritanızı caseworker'ınızla tartışın  
 - Tüm plana değil, bir sonraki küçük kilometre taşına odaklanın  
 
 ---

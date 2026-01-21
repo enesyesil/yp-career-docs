@@ -1,6 +1,6 @@
-# Vaka Çalışanları
+# Caseworker'lar
 
-Vaka çalışanları Career Academy'nin **çekirdek mentorlarıdır**.  
+Caseworker'lar Career Academy'nin **çekirdek mentorlarıdır**.  
 Mentileri yapılandırılmış bir yolculuk boyunca yönlendirirler — hedefleri tanımlamalarına, tutarlılık oluşturmalarına ve gerektiğinde fırsatlara veya profesyonel içgörülere bağlanmalarına yardımcı olurlar.
 
 ---
@@ -13,7 +13,7 @@ Mentilere şunları sağlayarak **hedefleri eyleme dönüştürmelerine** yardı
 - Akademik veya kariyer belirsizliği sırasında zamanında destek  
 - Her adımda yapılandırılmış yansıma ve belgeleme  
 
-**Vaka çalışanları, her mentinin hareket etmeye devam etmesini sağlar — bir seferde gerçekçi bir adım.**
+**Caseworker'lar, her mentinin hareket etmeye devam etmesini sağlar — bir seferde gerçekçi bir adım.**
 
 ---
 
@@ -30,7 +30,7 @@ Mentilere şunları sağlayarak **hedefleri eyleme dönüştürmelerine** yardı
 
 ##  Çekirdek İş Akışı
 
-1. **Başlangıç** – Mentinin geçmişini gözden geçir, tanı formunu tamamla ve 2–3 ilk hedef belirle.  
+1. **Başlangıç** – Mentinin geçmişini gözden geçir, Diagnosis Form'u tamamla ve 2–3 ilk hedef belirle.  
 2. **Düzenli Toplantılar** – İki haftada bir veya aylık kontroller yap (30–45 dakika).  
 3. **Belgeleme** – Her toplantıdan sonra, mentinin kaydını ve kontrol listesi seviyesini güncelle.  
 4. **İşbirliği** – Gerektiğinde, kariyer içgörüsü veya ağ kurma için bir profesyonel getir.  
@@ -79,4 +79,4 @@ Mentilere şunları sağlayarak **hedefleri eyleme dönüştürmelerine** yardı
 
 ---
 
-> 💡 *Vaka çalışanları sistemi insanileştirir — yapıyı gerçek ilerlemeye dönüştürürler.*
+> 💡 *Caseworker'lar sistemi insanileştirir — yapıyı gerçek ilerlemeye dönüştürürler.*

@@ -1,9 +1,9 @@
 # 🌍 Misyonumuz
 
-Career Academy'de misyonumuz, insan empatisini yapılandırılmış, ölçülebilir destekle birleştiren bir mentorluk ekosistemi oluşturarak **kişisel ve profesyonel gelişimin önündeki engelleri kaldırmaktır**.
+Career Academy'de misyonumuz, insan empatisini yapılandırılmış, ölçülebilir destekle birleştiren bir kariyer ekosistemi oluşturarak **kişisel ve profesyonel gelişimin önündeki engelleri kaldırmaktır**.
 
 Yönlerini bulmaya çalışan, özgüven oluşturmaya çalışan veya kim olduklarını kaybetmeden yeni ortamlara uyum sağlamaya çalışan öğrenciler, yeni gelenler ve genç yetişkinler için varız.  
-Potansiyelin evrensel olduğuna, ancak fırsatın olmadığına inanıyoruz. Rolümüz bu boşluğu doldurmaktır.
+Potansiyelin evrensel olduğuna, ancak fırsatın olmadığına inanıyoruz. Rolümüz bu boşluğu doldurmak.
 
 ---
 
@@ -14,7 +14,7 @@ Belirsiz sistemler, kültürel engeller veya hedeflerinde yalnız kalma hissiyle
 Career Academy, kimsenin bu geçişlerle yalnız başa çıkmamasını sağlamak için kuruldu.
 
 Programımızı, mentorluğun rastgele veya yapılandırılmamış olmaması için tasarladık — kasıtlı, tekrarlanabilir ve şeffaftır.  
-Her öğrenci bir **kişisel vaka çalışanı** alır, bir **mentorluk grubuna** katılır ve büyümeyi ve yansımayı takip eden araçlarla desteklenen **yönlendirilmiş bir yol** izler.
+Her öğrenci bir **kişisel caseworker** alır, bir **mentorluk grubuna** katılır ve büyümeyi ve yansımayı takip eden araçlarla desteklenen **yönlendirilmiş bir yol** izler.
 
 > "Mentorluk şansa bağlı olmamalı. Sisteme entegre edilmelidir."
 
@@ -25,29 +25,29 @@ Her öğrenci bir **kişisel vaka çalışanı** alır, bir **mentorluk grubuna*
 Mentorluğun kalbini yapının netliğiyle birleştiriyoruz.
 
 1. **Bire Bir Mentorluk:**  
-   Her menti, sürekli rehberlik, hesap verebilirlik ve destek sağlayan özel bir vaka çalışanıyla eşleştirilir.
+   Her menti, sürekli rehberlik, hesap verebilirlik ve destek sağlayan özel bir caseworker ile eşleştirilir.
 
 2. **Aşama Bazlı Yollar:**  
    Her menti, mevcut büyüme aşamalarına göre dört özelleştirilmiş izden birini takip eder — *Foundation, Strategy, Candidacy* veya *Experience*.
 
 3. **İşbirlikçi Sistemler:**  
-   Vaka çalışanları, bursiyerler ve profesyoneller, ilerlemeyi görünür ve ölçülebilir kılmak için paylaşılan araçlar — kontrol listeleri, loglar ve kaynak platformları — kullanarak birlikte çalışır.
+   Caseworker'lar, Fellows ve profesyoneller, ilerlemeyi görünür ve ölçülebilir kılmak için paylaşılan araçlar — kontrol listeleri, loglar ve kaynak platformları — kullanarak birlikte çalışır.
 
 4. **Topluluk Güçlendirme:**  
-   Mezun mentiler, yeni katılımcılara mentorluk yapan *Bursiyerler* olur ve öğrenme, katkı ve liderlik döngüsü oluşturur.
+   Mezun mentiler, yeni katılımcılara mentorluk yapan *Fellows* olur ve öğrenme, katkı ve liderlik döngüsü oluşturur.
 
 ---
 
 ##  Nasıl Etki Yaratıyoruz
 
-Etkimiz, insanları güçlendiren, sınırlamayan yapıdan gelir.
+Amacımız, insanları güçlendiren ve sınırlandırmayan bir yapıdan doğan etki yaratmaktır.
 
 - **Mentiler için:** Netlik, özgüven ve topluluk.  
-- **Vaka çalışanları için:** Verimli mentorluk yapmak için araçlar ve sistemler.  
+- **Caseworker'lar için:** Verimli mentorluk yapmak için araçlar ve sistemler.  
 - **Profesyoneller için:** Uzmanlık yoluyla geri vermek için bir köprü.  
 - **Organizasyon için:** Büyüme ve sonuçlara gerçek zamanlı görünürlük.
 
-İlerlemeyi yansımalar, oturum logları ve kontrol listeleri aracılığıyla takip ediyoruz — bürokrasi yaratmak için değil, mentorluğu somutlaştırmak için.  
+İlerlemeyi yansımalar, oturum logları ve checklist'ler aracılığıyla takip ediyoruz — bürokrasi yaratmak için değil, mentorluğu somutlaştırmak için.  
 Her etkileşim, ölçülebilir gelişime doğru bir adım haline gelir.
 
 ---
@@ -63,7 +63,7 @@ Career Academy dört rehber ilke üzerine kurulmuştur:
    Büyüme, loglar, geri bildirimler ve kilometre taşları aracılığıyla ölçülebilir hale gelir.
 
 3. **Hiyerarşi Üzerinde İşbirliği:**  
-   Vaka çalışanları, bursiyerler ve profesyoneller birlikte çalışır, her rol bir sonrakini destekler.
+   Caseworker'lar, Fellows ve profesyoneller birlikte çalışır, her rol bir sonrakini destekler.
 
 4. **Kapsayıcılık ve Erişim:**  
    Herkes deneyim, dil veya geçmişe bakılmaksızın mentorluğu hak eder.
@@ -76,13 +76,13 @@ Career Academy dört rehber ilke üzerine kurulmuştur:
 
 Sistemimiz mentileri tam bir gelişim döngüsü boyunca yönlendirir:
 
-1. **Keşif:** Büyümeye hazır bireyleri bulmak ve davet etmek.  
-2. **Tanı:** Hedeflerini, zorluklarını ve hazırlıklarını anlamak.  
+1. **Scouting:** Büyümeye hazır bireyleri bulmak ve davet etmek.  
+2. **Diagnosis:** Hedeflerini, zorluklarını ve hazırlıklarını anlamak.  
 3. **Yol Ataması:** Onları doğru mentorluk izine eşleştirmek.  
 4. **Aktif Mentorluk:** Kontrol listeleri ve loglarla desteklenen bire bir rehberlik.  
 5. **Yansıma ve Büyüme:** İlerlemeyi değerlendirmek ve kilometre taşlarını kutlamak.  
-6. **Bursiyerlik:** Liderliğe ve akran mentorluğuna geçiş.  
-7. **Profesyonel Ağ:** Gerçek dünya uzmanları ve fırsatlarla bağlantı kurmak.
+6. **Fellowship:** Liderliğe ve akran mentorluğuna geçiş.  
+7. **Professional Network:** Gerçek dünya uzmanları ve fırsatlarla bağlantı kurmak.
 
 Her aşama bir öncekinin üzerine inşa edilir — öğrenmeden liderliğe sürdürülebilir bir boru hattı oluşturur.
 

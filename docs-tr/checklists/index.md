@@ -25,7 +25,7 @@ Operasyonel araçlardır.
 
 ## Aşama Bazlı Checklist'ler
 
-Her mentee, tanı sürecinde bir **aşamaya** atanır.
+Her mentee, diagnosis sürecinde bir **aşamaya** atanır.
 
 Her aşamanın kendine özgü bir checklist'i vardır ve bu checklist şunları yansıtır:
 

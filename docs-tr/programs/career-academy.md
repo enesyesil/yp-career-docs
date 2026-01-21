@@ -38,17 +38,17 @@ Ruh sağlığı krizleri, yasal sorunlar veya özel profesyonel yardım — gere
 
 Career Academy öngörülebilir bir yapı izler, böylece öğrenciler her zaman yolculuklarında nerede olduklarını bilir.
 
-### **Adım 1 — Keşif**
+### **Adım 1 — Scouting**
 İlk konuşma.  
 Amaç: geçmişi, hedefleri ve acil mücadeleleri anlamak.
 
-### **Adım 2 — Tanı**
-Bir vaka çalışanı şunları belirlemek için yapılandırılmış sorularımızı, formlarımızı ve kontrol listelerimizi kullanır:
+### **Adım 2 — Diagnosis**
+Bir caseworker şunları belirlemek için yapılandırılmış sorularımızı, formlarımızı ve kontrol listelerimizi kullanır:
 - Birincil engeller  
 - Destek ihtiyaçları  
 - Uygun yollar  
 
-Tanı, bir öğrencinin önce nereye odaklanması gerektiğini belirler.
+Diagnosis, bir öğrencinin önce nereye odaklanması gerektiğini belirler.
 
 ### **Adım 3 — Yollar**
 Her öğrenci aşağıdaki ana yolların özelleştirilmiş bir kombinasyonunu alır:
@@ -97,11 +97,11 @@ Her 8–12 haftada bir:
 ### **Menti**
 - Tutarlı olarak katılır  
 - Açıkça iletişim kurar
-- Görevleri tamamlar (veya vaka çalışanını günceller)  
+- Görevleri tamamlar (veya caseworker'ı günceller)  
 - Taahhütleri ve son tarihleri takip eder 
 - Anlamlı büyümenin zaman aldığını anlar ve hedeflere ve koşullara bağlı olarak **uzun vadeli bir taahhüt (ideal olarak 1–2 yıl veya daha fazla)** kabul eder 
 
-### **Vaka Çalışanı**
+### **Caseworker**
 - Yapı, planlama ve hesap verebilirlik sağlar  
 - Loglar, kontrol listeleri ve şablonlar kullanır  
 - Mentinin bir seferde bir ana yöne odaklanmasına yardımcı olur  
@@ -109,7 +109,7 @@ Her 8–12 haftada bir:
 
 ### **Profesyoneller**
 - Hedefli rehberlik sağlar (sektör, beceri, geri bildirim)  
-- Gelişmiş veya özel oturumlar sırasında vaka çalışanlarını destekler  
+- Gelişmiş veya özel oturumlar sırasında caseworker'ları destekler  
 
 ---
 
@@ -158,7 +158,7 @@ Bir öğrenciyi Career Academy'ye getirmek için:
 
 1. İlk alım konuşması yap  
 2. Öğrenciyi sisteme ekle  
-3. Tam Tanı oturumu planla  
+3. Tam Diagnosis oturumu planla  
 4. Birincil yol(lar)ını seç  
 5. Toplantı sıklığını belirle  
 6. İlk 2–3 görevi ata  

@@ -8,22 +8,22 @@ Burada toplantılar, ilerleme takibi, kontrol listeleri ve genel yolculuk hakkı
 ##  Başlangıç
 
 ### 1. YPCA nedir?
-**YPCA Career Academy**, öğrencilere ve genç yetişkinlere net hedefler belirlemelerine, hesap verebilir kalmalarına ve gerçek dünya fırsatlarına hazırlanmalarına yardımcı olan — **vaka çalışanları** tarafından yönlendirilen ve **profesyoneller** tarafından desteklenen yapılandırılmış bir mentorluk ve büyüme programıdır.
+**YPCA Career Academy**, öğrencilere ve genç yetişkinlere net hedefler belirlemelerine, hesap verebilir kalmalarına ve gerçek dünya fırsatlarına hazırlanmalarına yardımcı olan — **caseworker'lar** tarafından yönlendirilen ve **profesyoneller** tarafından desteklenen yapılandırılmış bir mentorluk ve büyüme programıdır.
 
 ### 2. Nasıl katılırım?
-**Vaka çalışanı başlangıç süreci** aracılığıyla davet edilecek veya eşleştirileceksiniz.  
+**Caseworker başlangıç süreci** aracılığıyla davet edilecek veya eşleştirileceksiniz.  
 Atandıktan sonra, ilk resmi toplantınızdan önce kısa bir tanı ve başlangıç kontrol listesi tamamlayacaksınız.
 
 ### 3. Başlamak için neye ihtiyacım var?
 - Paylaşılan YPCA klasörüne veya paneline erişim  
-- Vaka çalışanınızla bir iletişim kanalı  
-- Başlangıç kontrol listesi + tanı formu (vaka çalışanınız bunları sağlayacaktır)
+- Caseworker'ınızla bir iletişim kanalı
+- Başlangıç kontrol listesi + Diagnosis Form (caseworker'ınız bunları sağlayacaktır)
 
 ---
 
 ##  Toplantılar ve İletişim
 
-### 4. Vaka çalışanımla ne sıklıkla buluşurum?
+### 4. Caseworker'ımla ne sıklıkla buluşurum?
 Genellikle **her 2–3 haftada bir**, hedeflerinize ve aktivite seviyenize bağlı olarak.  
 Toplantılar arasında daha kısa kontroller veya güncellemeler de alabilirsiniz.
 
@@ -51,28 +51,28 @@ Her menti **YPCA Büyüme Modelini** izler ve dört seviye boyunca ilerler:
 | **Experience** | Yansıma | Çalış, gönüllü ol ve sonuçları takip et |
 
 ### 8. Bir sonraki seviyeye ne zaman geçeceğimi nasıl bilirim?
-Vaka çalışanınız ilerlemenizi gözden geçirecek ve mevcut seviyeniz için kontrol listenizi tamamladığınızda işaretleyecektir.  
+Caseworker'ınız ilerlemenizi gözden geçirecek ve mevcut seviyeniz için kontrol listenizi tamamladığınızda işaretleyecektir.  
 Bu genellikle bir yansıma toplantısı sırasında yapılır.
 
 ### 9. Farklı yol haritası alanları arasında geçiş yapabilir miyim?
-Evet — YPCA keşfi teşvik eder. Vaka çalışanınız planın gerçekçi kaldığını kabul ettiği sürece yol haritalarını değiştirebilir veya birleştirebilirsiniz (örneğin, *Veri Bilimi + Sosyal Etki*).
+Evet — YPCA keşfi teşvik eder. Caseworker'ınız planın gerçekçi kaldığını kabul ettiği sürece yol haritalarını değiştirebilir veya birleştirebilirsiniz (örneğin, *Veri Bilimi + Sosyal Etki*).
 
 ---
 
 ##  İletişim ve Destek
 
 ### 10. Bir toplantıya katılamazsam ne olur?
-Vaka çalışanınıza mümkün olduğunca erken haber verin ve yeniden planlayın.  
+Caseworker'ınıza mümkün olduğunca erken haber verin ve yeniden planlayın.  
 Tutarlılık zamanlamadan daha önemlidir — kaçırılan toplantılar ilerlemenizi yavaşlatır.
 
 ### 11. Bir sorunum olursa kime başvurmalıyım?
-- **Vaka Çalışanınız:** akademik, planlama veya motivasyon sorunları için.  
-- **Program Lideri:** daha büyük programla ilgili endişeler için.  
-- **Profesyoneller:** sadece vaka çalışanınız sizi belirli kariyer tavsiyesi için bağladığında.
+- **Caseworker'ınız:** akademik, planlama veya motivasyon sorunları için.
+- **Program Lideri:** daha büyük programla ilgili endişeler için.
+- **Profesyoneller:** sadece caseworker'ınız sizi belirli kariyer tavsiyesi için bağladığında.
 
 ### 12. Geride kalırsam ne olur?
 Sorun değil — amaç mükemmel olmak değil, yola geri dönmektir.  
-Vaka çalışanınız planınızı daha küçük, ulaşılabilir adımlarla sıfırlamanıza yardımcı olacaktır.
+Caseworker'ınız planınızı daha küçük, ulaşılabilir adımlarla sıfırlamanıza yardımcı olacaktır.
 
 ---
 
@@ -96,4 +96,4 @@ Daha fazla yol haritası ve ortaklık hayata geçtikçe, bu bölüm geçmiş men
 
 ---
 
-> 💡 *Emin değilseniz — vaka çalışanınıza sorun. Belirsizliği yapıya dönüştürmenize yardımcı olmak için buradalar.*
+> 💡 *Emin değilseniz — caseworker'ınıza sorun. Belirsizliği yapıya dönüştürmenize yardımcı olmak için buradalar.*

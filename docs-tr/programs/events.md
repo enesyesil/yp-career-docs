@@ -96,7 +96,7 @@ Gerçek bir sorunu çözmeyen etkinlikleri düzenlemiyoruz.
 
 ### **4. Takip Dahil**
 Etkinlikler bağımsız değildir. Öğrencileri şunlara yönlendirmelidir:
-- Career Academy
+- Career Academy  
 - Birebir toplantılar
 - Ek kaynaklar
 - Şablonlar veya rehberler
@@ -148,8 +148,8 @@ Basit mesajlaşma kullanın:
 - Kayıt veya RSVP
 
 Kanallar:
-- Discord
-- WhatsApp
+- Discord  
+- WhatsApp  
 - E-posta
 - Posterler / kampüs el ilanları
 
@@ -200,7 +200,7 @@ Etkinlik sırasında:
 
 ## 5. Etkinlikleri Diğer Programlara Bağlama
 
-- **Career Academy**
+- **Career Academy**  
   Etkinlikler giriş noktası görevi görür; birçok mentee buradan başlar.
 
 - **Tanıtım Film ve Medya**

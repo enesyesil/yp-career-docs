@@ -1,26 +1,26 @@
-# Tanı Sürecine Genel Bakış (Caseworker Rehberi)
+# Diagnosis Sürecine Genel Bakış (Caseworker Rehberi)
 
-Tanı, mentee'nin **doğru aşamaya** yerleştirilmesini ve **doğru türde takip** almasını sağlama sürecidir.
+Diagnosis, mentee'nin **doğru aşamaya** yerleştirilmesini ve **doğru türde takip** almasını sağlama sürecidir.
 
 Bu, sistemin bir parçasıdır; kişisel bir yargı değildir.
 
 ---
 
-## Tanı Neden Önemlidir?
+## Diagnosis Neden Önemlidir?
 
-Tanı şu konularda size yardımcı olur:
+Diagnosis şu konularda size yardımcı olur:
 
 - Mentee'nin gerçekte nerede olduğunu anlamak
 - Atanan aşamanın mantıklı olup olmadığını kontrol etmek
 - Birini çok hızlı itmekten veya gereksiz yere geri tutmaktan kaçınmak
 
-Tanı hatalı olduğunda, ilerleme yavaşlar ve her iki tarafta da hayal kırıklığı oluşur.
+Diagnosis hatalı olduğunda, ilerleme yavaşlar ve her iki tarafta da hayal kırıklığı oluşur.
 
 ---
 
-## Tanı Nelere Bakar?
+## Diagnosis Nelere Bakar?
 
-Tanı, pratik sinyallere dayanır. Örneğin:
+Diagnosis, pratik sinyallere dayanır. Örneğin:
 
 - Mentee'nin hedeflerinin ne kadar net olduğu
 - Eğitim veya iş geçmişi
@@ -28,7 +28,7 @@ Tanı, pratik sinyallere dayanır. Örneğin:
 - Harekete geçme konusundaki güven
 - Görevleri takip etme yeteneği
 
-Tanı şunları **yargılamaz**:
+Diagnosis şunları **yargılamaz**:
 
 - Zeka
 - Yetenek
@@ -39,7 +39,7 @@ Tanı şunları **yargılamaz**:
 
 ## Caseworker Olarak Rolünüz
 
-Tanı modelini **siz belirlemezsiniz**.
+Diagnosis modelini **siz belirlemezsiniz**.
 
 Sorumluluklarınız şunlardır:
 
@@ -75,7 +75,7 @@ Aşamayı kendiniz değiştirmeyin.
 
 ## Temel Kural
 
-Tanı, **sistemin mentee'yi nasıl desteklediğini** değiştirir;  
+Diagnosis, **sistemin mentee'yi nasıl desteklediğini** değiştirir;  
 **mentee'ye nasıl saygı gösterdiğinizi veya davrandığınızı** değiştirmez.
 
 Saygı sabit kalır ve destek her zaman önemlidir.

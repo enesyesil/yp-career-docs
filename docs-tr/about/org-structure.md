@@ -1,52 +1,52 @@
 #  Organizasyon Yapısı
 
 Career Academy'nin organizasyonel modeli, çalışmamızı tanımlayan bire bir bağlantıyı kaybetmeden ölçekte mentorluğu desteklemek için tasarlanmıştır.  
-Mentiler ve vaka çalışanlarından bursiyerlere, profesyonellere ve program liderliğine kadar her katılım seviyesini sürekli bir ekosisteme bağlar.
+Mentiler ve caseworker'lardan Fellows'a, profesyonellere ve program liderliğine kadar her katılım seviyesini sürekli bir ekosisteme bağlar.
 
 ---
 
 ##  Genel Bakış
 
 Organizasyon, mentilerin nasıl büyüdüğü etrafında yapılandırılmıştır.  
-Her katılımcı **Keşif** ve **Tanı** ile başlar, ardından dört **Vaka Çalışanı Yolundan** birine geçer.  
-Her yol, farklı bir hazırlık ve gelişim aşamasına odaklanır ve nihayetinde **Bursiyerlik** ve **Profesyonel Ağa** yol açar.
+Her katılımcı **Scouting** ve **Diagnosis** ile başlar, ardından dört **Caseworker Pathway**'den birine geçer.  
+Her yol, farklı bir hazırlık ve gelişim aşamasına odaklanır ve nihayetinde **Fellowship** ve **Professional Network**'e yol açar.
 
 ---
 
-##  Keşif ve Tanı
+##  Scouting ve Diagnosis
 
 Yolculuk erişim ve başlangıç ile başlar:
-- **Keşif** – topluluk, ortak veya referans ağları aracılığıyla potansiyel mentileri belirleme.  
-- **Tanı** – her mentinin hedeflerini, geçmişini ve hazırlığını anlayarak ideal yolunu belirleme.
+- **Scouting** – topluluk, ortak veya referans ağları aracılığıyla potansiyel mentileri belirleme.  
+- **Diagnosis** – her mentinin hedeflerini, geçmişini ve hazırlığını anlayarak ideal yolunu belirleme.
 
 > Amaç, her mentiyi doğru türde rehberliğe bağlamaktır — tek beden herkese uyan bir program değil.
 
 ---
 
-##  Vaka Çalışanı Yolları
+##  Caseworker Yolları
 
-Her menti, gelişim aşamalarına uyan bir **Vaka Çalışanı Yoluna** atanır.  
+Her menti, gelişim aşamalarına uyan bir **Caseworker Pathway**'e atanır.  
 Bu yollar, ne tür mentorluk, kontrol listeleri ve hedeflerin kullanılacağını tanımlar.
 
-| Vaka Çalışanı Türü | İdeal Menti Profili | Odak Alanı |
+| Caseworker Türü | İdeal Menti Profili | Odak Alanı |
 |-----------------|----------------------|-------------|
 | **Foundation** | Belirsiz veya dil/özgüven engelleriyle karşılaşan mentiler. | Özgüven, motivasyon ve yön oluştur. |
 | **Strategy** | Hedefleri var ancak yapı eksikliği olan mentiler. | Kariyer/eğitim yol haritaları ve hesap verebilirlik sistemleri oluştur. |
 | **Candidacy** | Yükseköğretime veya giriş seviyesi işlere hazırlanan mentiler. | Hazırlık, profesyonel beceriler ve zihniyet geliştir. |
 | **Experience** | Kariyer büyümesi arayan öğrenciler veya profesyoneller. | Uygulamalı beceriler, gerçek dünya deneyimi ve yansıma oluştur. |
 
-Her yol, o alanda uzmanlaşmış vaka çalışanları tarafından yönlendirilir ve program koordinatörleri ve akran bursiyerler tarafından desteklenir.
+Her yol, o alanda uzmanlaşmış caseworker'lar tarafından yönlendirilir ve program koordinatörleri ve akran Fellows tarafından desteklenir.
 
-###  Bursiyerlik
+###  Fellowship
 
-Yollarını tamamladıktan sonra, mentiler **Bursiyerlik** aşamasına girerler — liderlik, katkı ve topluluk odaklı bir aşama.  
+Yollarını tamamladıktan sonra, mentiler **Fellowship** aşamasına girerler — liderlik, katkı ve topluluk odaklı bir aşama.  
 
-Bursiyerler:
-- Vaka çalışanlarının gözetimi altında yeni mentilere mentorluk yapar.  
+Fellows:
+- Caseworker'ların gözetimi altında yeni mentilere mentorluk yapar.  
 - Akran öğrenme veya yansıma oturumlarına ev sahipliği yapar.  
 - Mentiler ve profesyoneller arasında köprü görevi görür.  
 
-> Bursiyerlik aşaması büyümeyi katkıya dönüştürür — mentiler mentor olur.
+> Fellowship aşaması büyümeyi katkıya dönüştürür — mentiler mentor olur.
 
 ---
 
@@ -57,8 +57,8 @@ Sahne arkasında, her operasyonel katmanın net sorumlulukları vardır:
 | Rol | Sorumluluk |
 |------|----------------|
 | **Program Liderleri** | Tüm yolları denetler, verileri değerlendirir ve kaliteyi sağlar. |
-| **Vaka Çalışanları** | Doğrudan mentorluk yapar ve menti ilerlemesini yönetir. |
-| **Bursiyerler** | Akran mentorluğunu genişletir ve başlangıçta yardımcı olur. |
+| **Caseworker'lar** | Doğrudan mentorluk yapar ve menti ilerlemesini yönetir. |
+| **Fellows** | Akran mentorluğunu genişletir ve başlangıçta yardımcı olur. |
 | **Profesyoneller** | Alan-spesifik uzmanlık ve geri bildirim sağlar. |
 | **Operasyon Ekibi** | Araçları, kontrol listelerini, logları ve kaynakları yönetir. |
 
@@ -68,10 +68,10 @@ Sahne arkasında, her operasyonel katmanın net sorumlulukları vardır:
 
 ##  Özet
 
-- Her mentorluk **Keşif ve Tanı** ile başlar.  
+- Her mentorluk **Scouting ve Diagnosis** ile başlar.  
 - Mentiler **Foundation**, **Strategy**, **Candidacy** veya **Experience** yollarına yerleştirilir.  
-- Mezunlar **Bursiyerler** olur ve ekosisteme geri katkıda bulunur.  
-- **Profesyonel Ağ** mentileri gerçek dünya mentorlarıyla bağlar.  
-- Liderlik ve vaka çalışanları hesap verebilirlik, büyüme ve sürdürülebilirliği sağlar.  
+- Mezunlar **Fellows** olur ve ekosisteme geri katkıda bulunur.  
+- **Professional Network** mentileri gerçek dünya mentorlarıyla bağlar.  
+- Liderlik ve caseworker'lar hesap verebilirlik, büyüme ve sürdürülebilirliği sağlar.  
 
 > **Öğrenenden lidere — her aşama yapı, amaç ve insanlarla bağlantılıdır.**
