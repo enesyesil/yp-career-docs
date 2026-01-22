@@ -84,7 +84,7 @@ Sistemimiz mentileri tam bir gelişim döngüsü boyunca yönlendirir:
 6. **Fellowship:** Liderliğe ve akran mentorluğuna geçiş.  
 7. **Professional Network:** Gerçek dünya uzmanları ve fırsatlarla bağlantı kurmak.
 
-Her aşama bir öncekinin üzerine inşa edilir — öğrenmeden liderliğe sürdürülebilir bir boru hattı oluşturur.
+Her aşama bir öncekinin üzerine inşa edilir — öğrenmeden liderliğe sürdürülebilir bir pipeline oluşturur.
 
 ---
 
